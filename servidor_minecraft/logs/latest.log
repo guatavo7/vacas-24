@@ -7446,3 +7446,17 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [21Dec2024 06:33:05.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:41499] logged in with entity id 180822 at (-998249.3311728578, 103.0, 88866.01258232359)
 [21Dec2024 06:33:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game
 [21Dec2024 06:39:33.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved wrongly!
+[21Dec2024 06:45:58.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.26250370033085346
+[21Dec2024 06:45:58.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.7235866038245149
+[21Dec2024 06:45:58.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 1.2136655095237074
+[21Dec2024 06:45:58.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 1.7192595978849567
+[21Dec2024 06:45:58.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 2.2331555511482293
+[21Dec2024 06:45:58.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.343302008259343
+[21Dec2024 06:45:59.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.3292803597287275
+[21Dec2024 06:45:59.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.7952178773703054
+[21Dec2024 06:45:59.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.31764040554116946
+[21Dec2024 06:45:59.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.3155493477679556
+[21Dec2024 06:45:59.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Crisogamaer) moved wrongly! 0.31443046443746425
+[21Dec2024 06:49:43.065] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[21Dec2024 06:51:37.656] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[21Dec2024 06:52:38.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [It's an Emu!!!]
