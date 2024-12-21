@@ -12373,3 +12373,37 @@ java.lang.IndexOutOfBoundsException: Index 5696 out of bounds for length 51
 [21Dec2024 06:01:05.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 06:02:59.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1HUY moved wrongly!
 [21Dec2024 06:03:04.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1HUY moved wrongly!
+[21Dec2024 06:06:05.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 06:06:05.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 06:06:59.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/134453, l='ServerLevel[world]', x=-998537.51, y=45.34, z=88886.49] died, message: 'Fletcher hit the ground too hard'
+[21Dec2024 06:07:14.585] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[21Dec2024 06:07:14.603] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[21Dec2024 06:07:14.613] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[21Dec2024 06:07:14.628] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[21Dec2024 06:07:14.642] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[21Dec2024 06:07:14.646] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[21Dec2024 06:07:14.649] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[21Dec2024 06:07:14.649] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[21Dec2024 06:07:14.651] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[21Dec2024 06:07:14.652] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[21Dec2024 06:08:16.192] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/163646, l='ServerLevel[world]', x=21638.50, y=47.00, z=-8134.50]
+[21Dec2024 06:08:22.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/163739, l='ServerLevel[world]', x=21635.50, y=51.00, z=-8142.50]
+[21Dec2024 06:08:24.764] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dynamictrees:village/plains/town_centers/plains_meeting_point_3
+[21Dec2024 06:11:05.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 06:11:05.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 06:11:15.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 blew up
+[21Dec2024 06:11:15.147] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(598, 230, 486) minecraft:overworld
+[21Dec2024 06:11:18.474] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[21Dec2024 06:11:29.893] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 06:11:29.894] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[21Dec2024 06:11:29.894] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Dec2024 06:11:29.894] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Dec2024 06:12:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer fell from a high place
+[21Dec2024 06:12:42.065] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998539, 81, 88885) minecraft:overworld
+[21Dec2024 06:12:44.550] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[21Dec2024 06:12:49.744] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 06:12:49.745] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 06:16:05.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 06:16:05.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 06:21:05.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 06:21:05.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
