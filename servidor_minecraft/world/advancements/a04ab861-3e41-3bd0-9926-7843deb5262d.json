@@ -7164,6 +7164,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2024-12-21 07:27:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
@@ -7224,6 +7230,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2024-12-21 07:27:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2024-12-21 07:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-21 04:17:48 +0000"
@@ -7275,6 +7293,12 @@
   "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2024-12-21 07:27:04 +0000"
     },
     "done": true
   },
