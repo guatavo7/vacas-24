@@ -1931,3 +1931,42 @@ java.lang.IndexOutOfBoundsException: Index 6986 out of bounds for length 51
 [21Dec2024 04:17:37.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Sneak 100]
 [21Dec2024 04:17:48.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Enchanter]
 [21Dec2024 04:18:41.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityLeafcutterAnt['cuca'/537, l='ServerLevel[world]', x=-998560.85, y=117.00, z=88885.96] died: cuca was slain by Ice Dragon
+[21Dec2024 04:18:59.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[21Dec2024 04:20:03.793] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[21Dec2024 04:20:59.942] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14427, l='ServerLevel[world]', x=15988.59, y=83.50, z=-6350.83] died, message: 'Farmer was pricked to death'
+[21Dec2024 04:21:22.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14446, l='ServerLevel[world]', x=15988.59, y=83.50, z=-6351.62] died, message: 'Villager was pricked to death'
+[21Dec2024 04:23:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[21Dec2024 04:23:16.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/simpletomb/data/MessageType
+[21Dec2024 04:23:16.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(15948, 77, -6348) minecraft:overworld
+[21Dec2024 04:23:25.635] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 04:23:25.636] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 04:23:25.636] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 04:23:25.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 04:23:25.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[21Dec2024 04:23:25.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 04:23:25.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 04:23:25.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 04:23:25.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 04:23:39.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5641ms or 112 ticks behind
+[21Dec2024 04:23:39.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved too quickly! 1.913530754041858,-10.53578553400719,-2.187675738532562
+[21Dec2024 04:24:00.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[21Dec2024 04:24:29.774] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[21Dec2024 04:25:26.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1123, y=74, z=-4779} BlockPos{x=-1124, y=72, z=-4779}
+[21Dec2024 04:25:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Ant-Agonizer]
+[21Dec2024 04:27:54.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[21Dec2024 04:31:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Dragon Growth Hormone]
+[21Dec2024 04:32:34.669] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[21Dec2024 04:32:34.753] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[21Dec2024 04:32:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [All Along The Watchtower]
+[21Dec2024 04:34:45.164] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[21Dec2024 04:34:54.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/46774, l='ServerLevel[world]', x=16571.50, y=48.00, z=-6371.50]
+[21Dec2024 04:36:57.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[21Dec2024 04:37:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [We Just Want our Hat Back]
+[21Dec2024 04:37:28.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Dec2024 04:37:32.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [You Are A Pirate]
+[21Dec2024 04:37:54.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved too quickly! 7.189785621594638,0.0,-7.163247382180998
+[21Dec2024 04:37:54.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
+[21Dec2024 04:37:54.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
+[21Dec2024 04:37:58.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:60783] logged in with entity id 51720 at (-998548.5006095445, 117.0, 88869.87645918937)
+[21Dec2024 04:37:58.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game
+[21Dec2024 04:38:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Forged in Flame]
