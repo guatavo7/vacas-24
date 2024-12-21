@@ -5908,7 +5908,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2024-12-19 04:11:29 +0000"
+      "sweet_berries": "2024-12-19 04:11:29 +0000",
+      "potato": "2024-12-21 05:12:15 +0000"
     },
     "done": false
   },

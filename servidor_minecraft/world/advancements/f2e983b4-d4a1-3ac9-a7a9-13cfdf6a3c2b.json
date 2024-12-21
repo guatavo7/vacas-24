@@ -5828,6 +5828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-21 05:12:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
       "sword": "2024-12-21 04:40:20 +0000"
