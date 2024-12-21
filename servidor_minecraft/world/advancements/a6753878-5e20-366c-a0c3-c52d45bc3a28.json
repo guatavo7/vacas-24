@@ -77,6 +77,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-19 05:25:40 +0000",
       "minecraft:deep_dark": "2024-12-01 03:45:43 +0000",
       "minecraft:meadow": "2024-12-04 21:19:37 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-21 05:53:58 +0000",
       "minecraft:savanna": "2024-12-01 02:16:50 +0000",
       "minecraft:plains": "2024-12-01 02:42:39 +0000"
     },
@@ -7283,6 +7284,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2024-12-21 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2024-12-21 05:51:27 +0000"
     },
     "done": true
   },
