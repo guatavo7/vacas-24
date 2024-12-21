@@ -12279,3 +12279,8 @@ java.lang.IndexOutOfBoundsException: Index 5696 out of bounds for length 51
 [21Dec2024 05:39:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [The Song of the Dragons]
 [21Dec2024 05:40:48.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 05:40:48.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 05:45:48.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 05:45:48.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 05:47:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Ant-Agonizer]
+[21Dec2024 05:50:48.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 05:50:48.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
