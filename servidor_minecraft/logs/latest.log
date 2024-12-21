@@ -7460,3 +7460,17 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [21Dec2024 06:49:43.065] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
 [21Dec2024 06:51:37.656] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
 [21Dec2024 06:52:38.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [It's an Emu!!!]
+[21Dec2024 06:57:27.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[21Dec2024 06:57:27.255] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(21739, 110, -8209) minecraft:overworld
+[21Dec2024 06:57:35.551] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 06:57:35.552] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 06:57:35.552] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:58:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [We do a little trolling...]
+[21Dec2024 07:01:49.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1HUY lost connection: Disconnected
+[21Dec2024 07:01:49.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY left the game

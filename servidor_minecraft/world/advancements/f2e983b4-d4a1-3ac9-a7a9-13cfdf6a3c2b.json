@@ -40,9 +40,11 @@
       "minecraft:snowy_slopes": "2024-12-17 00:01:48 +0000",
       "minecraft:taiga": "2024-12-16 23:04:57 +0000",
       "minecraft:deep_ocean": "2024-12-19 02:41:10 +0000",
+      "minecraft:eroded_badlands": "2024-12-21 06:55:31 +0000",
       "minecraft:sunflower_plains": "2024-12-19 05:22:45 +0000",
       "minecraft:birch_forest": "2024-12-16 23:48:23 +0000",
       "minecraft:bamboo_jungle": "2024-12-19 01:51:21 +0000",
+      "minecraft:wooded_badlands": "2024-12-21 06:51:55 +0000",
       "minecraft:badlands": "2024-12-20 18:52:41 +0000",
       "minecraft:savanna_plateau": "2024-12-20 21:07:36 +0000",
       "minecraft:beach": "2024-12-19 05:45:39 +0000",
@@ -5805,6 +5807,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-21 06:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-21 04:55:14 +0000"
@@ -5814,6 +5822,12 @@
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2024-12-21 04:38:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-21 06:53:24 +0000"
     },
     "done": true
   },
@@ -5931,6 +5945,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-21 06:53:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-21 05:51:17 +0000"
@@ -5946,6 +5966,12 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2024-12-21 04:12:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-21 06:53:24 +0000"
     },
     "done": true
   },
@@ -5994,6 +6020,12 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2024-12-21 04:12:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2024-12-21 06:58:33 +0000"
     },
     "done": true
   },
@@ -6084,6 +6116,12 @@
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2024-12-21 05:47:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-21 06:53:24 +0000"
     },
     "done": true
   },
@@ -6246,6 +6284,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-21 04:52:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-21 06:53:24 +0000"
     },
     "done": true
   },

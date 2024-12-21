@@ -7074,9 +7074,87 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab": {
+    "criteria": {
+      "has_block": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-21 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall": {
+    "criteria": {
+      "has_block": "2024-12-21 06:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2024-12-21 06:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2024-12-21 06:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate": {
+    "criteria": {
+      "has_block": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate": {
+    "criteria": {
+      "has_item": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
     },
     "done": true
   },
@@ -7086,9 +7164,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_deepslate_tiles": {
+    "criteria": {
+      "has_item": "2024-12-21 06:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-21 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
     },
     "done": true
   },
@@ -7104,15 +7200,87 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-21 04:17:48 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs": {
+    "criteria": {
+      "has_block": "2024-12-21 06:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_block": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab": {
+    "criteria": {
+      "has_block": "2024-12-21 06:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_wall": {
+    "criteria": {
+      "has_block": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2024-12-21 06:54:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-21 06:06:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2024-12-21 06:51:28 +0000"
     },
     "done": true
   },

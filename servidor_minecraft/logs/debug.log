@@ -16437,3 +16437,81 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [21Dec2024 06:52:55.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
 [21Dec2024 06:52:55.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
 [21Dec2024 06:53:27.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[21Dec2024 06:56:00.573] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1550, y=98, z=-4258}
+[21Dec2024 06:56:00.573] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[21Dec2024 06:56:00.573] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 2
+[21Dec2024 06:56:00.573] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJJOR+mPfuPf
+[21Dec2024 06:56:08.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 06:56:08.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 06:56:14.057] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1197, y=95, z=-4324}
+[21Dec2024 06:56:14.057] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[21Dec2024 06:56:14.057] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[21Dec2024 06:56:14.057] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOOOJxOOXz896RPtJPeZJOPvhJJ8hJOJ6
+[21Dec2024 06:57:27.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[21Dec2024 06:57:27.255] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(21739, 110, -8209) minecraft:overworld
+[21Dec2024 06:57:28.754] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
+[21Dec2024 06:57:35.551] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 06:57:35.552] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Dec2024 06:57:35.552] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:57:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Dec2024 06:58:16.656] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[21Dec2024 06:58:16.686] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_descent_0
+[21Dec2024 06:58:16.697] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[21Dec2024 06:58:16.763] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[21Dec2024 06:58:16.808] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[21Dec2024 06:58:16.816] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[21Dec2024 06:58:16.953] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[21Dec2024 06:58:17.057] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_24
+[21Dec2024 06:58:17.145] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_12
+[21Dec2024 06:58:17.244] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_9
+[21Dec2024 06:58:17.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_25
+[21Dec2024 06:58:17.413] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_15
+[21Dec2024 06:58:17.521] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_16
+[21Dec2024 06:58:17.620] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_14
+[21Dec2024 06:58:17.731] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_4
+[21Dec2024 06:58:17.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_26
+[21Dec2024 06:58:17.939] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_3
+[21Dec2024 06:58:18.000] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_8
+[21Dec2024 06:58:18.064] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_22
+[21Dec2024 06:58:18.118] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_1
+[21Dec2024 06:58:18.167] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_7
+[21Dec2024 06:58:18.210] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_2
+[21Dec2024 06:58:18.294] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_19
+[21Dec2024 06:58:18.398] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_20
+[21Dec2024 06:58:18.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_5
+[21Dec2024 06:58:18.549] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_11
+[21Dec2024 06:58:18.665] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_10
+[21Dec2024 06:58:18.681] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_exterior_1
+[21Dec2024 06:58:18.682] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_illusion_0
+[21Dec2024 06:58:18.682] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_library_0
+[21Dec2024 06:58:18.683] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_0
+[21Dec2024 06:58:18.683] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_1
+[21Dec2024 06:58:18.684] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_axe_illusion_2
+[21Dec2024 06:58:18.684] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_crossbow_illusion_1
+[21Dec2024 06:58:18.685] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_2
+[21Dec2024 06:58:18.686] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_elite_0
+[21Dec2024 06:58:18.686] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_tower_1
+[21Dec2024 06:58:18.686] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_tower_0
+[21Dec2024 06:58:18.687] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_exterior_0
+[21Dec2024 06:58:18.780] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_17
+[21Dec2024 06:58:18.796] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_0
+[21Dec2024 06:58:18.796] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_1
+[21Dec2024 06:58:18.891] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_21
+[21Dec2024 06:58:18.968] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_6
+[21Dec2024 06:58:19.151] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_18
+[21Dec2024 06:58:19.241] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_23
+[21Dec2024 06:58:19.301] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_0
+[21Dec2024 06:58:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [We do a little trolling...]
+[21Dec2024 06:59:21.648] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1297, y=121, z=-5062}
+[21Dec2024 06:59:21.648] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[21Dec2024 06:59:21.648] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[21Dec2024 06:59:21.648] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JORJxxxx+XfvV9pfmMJJPbJJP
+[21Dec2024 07:01:08.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 07:01:08.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 07:01:49.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1HUY lost connection: Disconnected
+[21Dec2024 07:01:49.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY left the game
