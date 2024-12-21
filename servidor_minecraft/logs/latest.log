@@ -7480,3 +7480,4 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [21Dec2024 07:13:04.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
 [21Dec2024 07:13:17.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:49603] logged in with entity id 215617 at (-998551.4311832886, 43.0, 88883.41814178953)
 [21Dec2024 07:13:17.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game
+[21Dec2024 07:18:28.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved wrongly!
