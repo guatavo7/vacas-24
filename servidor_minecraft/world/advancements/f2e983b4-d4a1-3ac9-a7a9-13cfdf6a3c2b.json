@@ -5876,6 +5876,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-21 06:30:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
     "criteria": {
       "has_item": "2024-12-21 04:38:44 +0000"
