@@ -5301,57 +5301,33 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "citadel": "2024-12-20 21:27:29 +0000"
+      "in_stronghold": "2024-12-20 20:01:23 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_salmon": "2024-12-20 20:56:08 +0000"
+      "entered_end": "2024-12-20 20:02:09 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
+      "entered_end": "2024-12-20 20:02:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
+      "killed_dragon": "2024-12-20 20:04:49 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
-      "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2024-12-20 20:24:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2024-12-20 20:05:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
+      "has_item": "2024-12-20 20:05:35 +0000"
     },
     "done": true
   },
@@ -5361,9 +5337,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
-      "has_snowball": "2024-12-20 20:48:25 +0000"
+      "has_end_stone": "2024-12-20 20:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 20:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 20:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-20 20:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-12-20 20:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
     },
     "done": true
   },
@@ -5379,33 +5391,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2024-12-20 20:39:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 20:13:32 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_meal": {
-    "criteria": {
-      "bestiary": "2024-12-20 20:43:11 +0000"
     },
     "done": true
   },
@@ -5427,45 +5421,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2024-12-20 20:36:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-12-20 20:24:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2024-12-20 20:42:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-20 20:24:29 +0000"
     },
     "done": true
   },
@@ -5481,12 +5445,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-20 20:13:32 +0000"
@@ -5499,33 +5457,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-20 20:56:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 20:42:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
-    "criteria": {
-      "has_dragonscale_gray": "2024-12-20 21:24:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-20 20:05:43 +0000"
     },
     "done": true
   },
@@ -5535,81 +5469,15 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-20 20:01:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2024-12-20 20:16:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
-    "criteria": {
-      "has_dragonscale_electric": "2024-12-20 20:36:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2024-12-20 20:28:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-20 20:13:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2024-12-20 20:42:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2024-12-20 20:02:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
-    "criteria": {
-      "has_dragonscale_silver": "2024-12-20 20:36:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 20:56:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2024-12-20 20:04:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2024-12-20 20:05:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2024-12-20 21:25:35 +0000"
     },
     "done": true
   },
@@ -5625,45 +5493,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-20 20:56:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2024-12-20 20:05:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2024-12-20 20:36:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
-    "criteria": {
-      "has_dragonscale_white": "2024-12-20 20:41:04 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_house": {
-    "criteria": {
-      "location0": "2024-12-20 21:25:18 +0000"
     },
     "done": true
   },
@@ -5676,30 +5508,6 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-20 20:13:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
-    "criteria": {
-      "has_item": "2024-12-20 20:48:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
-    "criteria": {
-      "has_dragonscale_sapphire": "2024-12-20 20:36:52 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_village": {
-    "criteria": {
-      "location0": "2024-12-20 21:14:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-20 20:56:08 +0000"
     },
     "done": true
   },
@@ -5733,27 +5541,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+  "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
-      "has_dragonscales_silver": "2024-12-20 20:36:43 +0000"
+      "has_packed_mud": "2024-12-20 20:16:25 +0000"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "entered_end": "2024-12-20 20:02:09 +0000"
+      "has_raw_copper": "2024-12-20 20:24:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_end_stone": "2024-12-20 20:05:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-20 20:05:43 +0000"
+      "has_raw_copper": "2024-12-20 20:24:29 +0000"
     },
     "done": true
   },
@@ -5763,15 +5565,243 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
-      "has_snowball": "2024-12-20 20:48:25 +0000"
+      "has_item": "2024-12-20 20:24:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-20 20:28:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2024-12-20 20:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
+    "criteria": {
+      "has_dragonscale_electric": "2024-12-20 20:36:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
+    "criteria": {
+      "has_dragonscale_sapphire": "2024-12-20 20:36:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
+    "criteria": {
+      "has_dragonscale_silver": "2024-12-20 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2024-12-20 20:39:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
+    "criteria": {
+      "has_dragonscale_white": "2024-12-20 20:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-20 20:42:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-20 20:42:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-20 20:42:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-20 20:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2024-12-20 20:48:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:56:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-20 20:56:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-20 21:14:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
+    "criteria": {
+      "has_dragonscale_gray": "2024-12-20 21:24:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2024-12-20 21:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-20 21:25:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-12-20 21:27:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-21 04:12:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-21 04:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 04:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 04:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-21 04:12:58 +0000"
     },
     "done": true
   },
