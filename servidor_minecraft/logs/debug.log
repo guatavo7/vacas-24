@@ -11644,3 +11644,163 @@ java.lang.IndexOutOfBoundsException: Index 13610 out of bounds for length 51
 [22Dec2024 06:37:35.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
 [22Dec2024 06:37:35.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
 [22Dec2024 06:37:35.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[22Dec2024 06:39:27.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:39:27.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:41:21.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[22Dec2024 06:41:21.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[22Dec2024 06:41:43.706] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-999145, y=94, z=89009}
+[22Dec2024 06:41:43.706] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[22Dec2024 06:41:43.706] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[22Dec2024 06:41:43.706] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORLJx+XvtJOXePfkJJxx67f
+[22Dec2024 06:42:25.896] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-999171, y=94, z=89151}
+[22Dec2024 06:42:25.896] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[22Dec2024 06:42:25.896] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[22Dec2024 06:42:25.896] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJxxxxxxOOPX17+vS+i717680mJ76+txNR9+bep7x86WtPROPS8mk066P
+[22Dec2024 06:43:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [The Lighthouse]
+[22Dec2024 06:44:27.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:44:27.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:44:28.752] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-998962, y=95, z=88332}
+[22Dec2024 06:44:28.753] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[22Dec2024 06:44:28.753] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[22Dec2024 06:44:28.753] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxP0n1vzfS+mnft16+ek+vfS06+k0+fX1uq7fzenfS0+t6
+[22Dec2024 06:44:28.954] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-998945, y=91, z=88329}
+[22Dec2024 06:44:28.954] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[22Dec2024 06:44:28.954] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[22Dec2024 06:44:28.954] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxPX0f1176X0n1vzfS+ek71760n16X
+[22Dec2024 06:44:35.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel14
+[22Dec2024 06:44:35.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel15
+[22Dec2024 06:44:35.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel4
+[22Dec2024 06:44:35.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel13
+[22Dec2024 06:44:35.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel2
+[22Dec2024 06:44:35.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel11
+[22Dec2024 06:44:35.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel8
+[22Dec2024 06:44:35.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel17
+[22Dec2024 06:44:35.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel1
+[22Dec2024 06:44:35.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel10
+[22Dec2024 06:44:35.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel3
+[22Dec2024 06:44:35.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel12
+[22Dec2024 06:44:36.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel9
+[22Dec2024 06:44:36.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel18
+[22Dec2024 06:44:36.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel7
+[22Dec2024 06:44:36.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel16
+[22Dec2024 06:45:00.277] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[22Dec2024 06:45:05.260] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dynamictrees:village/plains/town_centers/plains_meeting_point_3
+[22Dec2024 06:45:08.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8344ms or 166 ticks behind
+[22Dec2024 06:45:10.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved too quickly! 0.1512272764230147,-10.408991223757695,-0.1428787110489793
+[22Dec2024 06:45:13.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer fell from a high place
+[22Dec2024 06:45:13.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(998562, 72, 88890) minecraft:overworld
+[22Dec2024 06:45:16.648] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:45:21.870] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121025, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.870] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121026, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121027, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121028, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121029, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121030, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121031, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121032, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121033, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121034, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121035, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121036, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121037, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121038, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121039, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121040, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121041, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121042, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121043, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121044, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121045, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121046, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121047, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121048, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:23.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:45:23.753] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:45:29.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[22Dec2024 06:45:29.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[22Dec2024 06:45:31.987] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[22Dec2024 06:45:31.988] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[22Dec2024 06:45:32.027] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[22Dec2024 06:45:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [The Lighthouse]
+[22Dec2024 06:45:46.065] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[22Dec2024 06:45:46.074] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[22Dec2024 06:45:46.078] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[22Dec2024 06:45:46.083] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[22Dec2024 06:45:46.094] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[22Dec2024 06:45:46.111] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[22Dec2024 06:45:46.126] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[22Dec2024 06:45:46.141] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[22Dec2024 06:45:46.154] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[22Dec2024 06:45:46.165] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[22Dec2024 06:45:46.174] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[22Dec2024 06:45:46.184] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[22Dec2024 06:45:46.186] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[22Dec2024 06:45:46.187] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[22Dec2024 06:45:46.204] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[22Dec2024 06:45:46.223] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[22Dec2024 06:45:46.239] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[22Dec2024 06:45:46.243] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[22Dec2024 06:45:47.531] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[22Dec2024 06:45:47.532] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[22Dec2024 06:45:47.532] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[22Dec2024 06:45:47.533] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[22Dec2024 06:45:51.335] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[22Dec2024 06:45:51.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[22Dec2024 06:45:51.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[22Dec2024 06:45:51.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[22Dec2024 06:45:51.337] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[22Dec2024 06:45:51.337] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[22Dec2024 06:46:07.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[22Dec2024 06:46:07.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[22Dec2024 06:46:07.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[22Dec2024 06:46:23.313] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[22Dec2024 06:46:23.314] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[22Dec2024 06:46:23.314] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[22Dec2024 06:46:23.314] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[22Dec2024 06:46:24.685] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=998421, y=74, z=88683}
+[22Dec2024 06:46:24.685] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[22Dec2024 06:46:24.685] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[22Dec2024 06:46:24.685] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORJXZJxR+fn0hOJPSJ9pJOJ8
+[22Dec2024 06:46:25.543] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[22Dec2024 06:46:25.547] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[22Dec2024 06:46:29.891] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[22Dec2024 06:46:29.892] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[22Dec2024 06:46:30.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[22Dec2024 06:46:37.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[22Dec2024 06:46:37.089] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[22Dec2024 06:46:37.089] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[22Dec2024 06:46:41.976] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[22Dec2024 06:46:44.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[22Dec2024 06:46:44.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[22Dec2024 06:46:44.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[22Dec2024 06:46:44.139] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[22Dec2024 06:46:44.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[22Dec2024 06:46:44.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[22Dec2024 06:46:44.396] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[22Dec2024 06:46:44.396] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[22Dec2024 06:46:44.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[22Dec2024 06:47:01.352] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[22Dec2024 06:47:01.354] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[22Dec2024 06:47:01.649] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[22Dec2024 06:47:01.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[22Dec2024 06:47:30.420] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-999294, y=65, z=87844}
+[22Dec2024 06:47:30.420] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[22Dec2024 06:47:30.420] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[22Dec2024 06:47:30.420] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJOJOOP0+vXb9pJ8hJOePfS
+[22Dec2024 06:47:31.076] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-999434, y=65, z=87848}
+[22Dec2024 06:47:31.076] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[22Dec2024 06:47:31.076] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 2
+[22Dec2024 06:47:31.076] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJKJ0JOP17+pPZx7v
+[22Dec2024 06:47:31.103] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-999482, y=69, z=87845}
+[22Dec2024 06:47:31.103] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[22Dec2024 06:47:31.103] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[22Dec2024 06:47:31.103] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJOJOOWPXuPz9+bx88XkJzPX
+[22Dec2024 06:47:34.457] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-999199, y=67, z=87833}
+[22Dec2024 06:47:34.457] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[22Dec2024 06:47:34.457] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 2
+[22Dec2024 06:47:34.457] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJORxx987Jx+nv

@@ -3345,3 +3345,84 @@ java.lang.IndexOutOfBoundsException: Index 13610 out of bounds for length 51
 [
   "8,0+/$(k#'g93=<5/p24.ip.gl.ply.gg#0."
 ]
+[22Dec2024 06:43:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [The Lighthouse]
+[22Dec2024 06:45:08.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8344ms or 166 ticks behind
+[22Dec2024 06:45:10.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved too quickly! 0.1512272764230147,-10.408991223757695,-0.1428787110489793
+[22Dec2024 06:45:13.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer fell from a high place
+[22Dec2024 06:45:13.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(998562, 72, 88890) minecraft:overworld
+[22Dec2024 06:45:21.870] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121025, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.870] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121026, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121027, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121028, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121029, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121030, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121031, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121032, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121033, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121034, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121035, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121036, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121037, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.872] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121038, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121039, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121040, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121041, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121042, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121043, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121044, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121045, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121046, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121047, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:21.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/121048, l='ServerLevel[world]', x=998562.83, y=73.32, z=88890.19, removed=DISCARDED]
+[22Dec2024 06:45:23.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:45:23.753] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:45:29.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[22Dec2024 06:45:29.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[22Dec2024 06:45:31.987] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[22Dec2024 06:45:31.988] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[22Dec2024 06:45:32.027] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[22Dec2024 06:45:32.028] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[22Dec2024 06:45:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [The Lighthouse]
+[22Dec2024 06:45:47.531] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[22Dec2024 06:45:47.532] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[22Dec2024 06:45:47.532] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[22Dec2024 06:45:47.533] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[22Dec2024 06:45:51.335] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[22Dec2024 06:45:51.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[22Dec2024 06:45:51.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[22Dec2024 06:45:51.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[22Dec2024 06:45:51.337] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[22Dec2024 06:45:51.337] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[22Dec2024 06:46:07.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[22Dec2024 06:46:07.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[22Dec2024 06:46:07.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[22Dec2024 06:46:23.313] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[22Dec2024 06:46:23.314] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[22Dec2024 06:46:23.314] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[22Dec2024 06:46:23.314] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[22Dec2024 06:46:25.543] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[22Dec2024 06:46:25.547] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[22Dec2024 06:46:29.891] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[22Dec2024 06:46:29.892] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[22Dec2024 06:46:30.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[22Dec2024 06:46:37.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[22Dec2024 06:46:37.089] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[22Dec2024 06:46:37.089] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[22Dec2024 06:46:41.976] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[22Dec2024 06:46:44.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[22Dec2024 06:46:44.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[22Dec2024 06:46:44.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[22Dec2024 06:46:44.139] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[22Dec2024 06:46:44.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[22Dec2024 06:46:44.389] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[22Dec2024 06:46:44.396] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[22Dec2024 06:46:44.396] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[22Dec2024 06:46:44.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[22Dec2024 06:47:01.352] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[22Dec2024 06:47:01.354] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[22Dec2024 06:47:01.649] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[22Dec2024 06:47:01.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
