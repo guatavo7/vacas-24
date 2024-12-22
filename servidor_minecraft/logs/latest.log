@@ -819,3 +819,48 @@
 [22Dec2024 01:35:57.118] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [22Dec2024 01:36:00.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> a
 [22Dec2024 01:36:37.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Smoke On The Water]
+[22Dec2024 01:37:30.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/64181, l='ServerLevel[world]', x=-472.50, y=44.00, z=-525.50]
+[22Dec2024 01:37:44.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved wrongly!
+[22Dec2024 01:37:48.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/65676, l='ServerLevel[world]', x=-126.50, y=61.00, z=-351.50]
+[22Dec2024 01:37:50.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/65836, l='ServerLevel[world]', x=-124.50, y=56.00, z=-354.50]
+[22Dec2024 01:37:51.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 8.63259351990186,-1.0490610989212712,6.427785750858732
+[22Dec2024 01:37:51.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 9.356430127438642,-1.1577013901744238,6.965732954170107
+[22Dec2024 01:37:58.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 8.480832023147507,-1.196647213729591,5.22853040317591
+[22Dec2024 01:38:02.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 9.421589610480583,-1.196647213729591,3.212773472048241
+[22Dec2024 01:38:08.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 9.906234501590035,-1.196647213729591,1.0034108015303218
+[22Dec2024 01:38:08.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 10.802923727597488,-1.3054333240686447,1.1243260778170168
+[22Dec2024 01:38:08.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 11.699003628486537,-1.4142194344076984,1.249726627135061
+[22Dec2024 01:38:08.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 12.59454013321934,-1.523005544746752,1.3791271430577297
+[22Dec2024 01:38:08.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 13.489592037246041,-1.6317916550858058,1.512094829301219
+[22Dec2024 01:38:08.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 14.384211774350575,-1.7405777654248595,1.648243718128498
+[22Dec2024 01:38:08.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! 15.27844610498282,-1.8493638757639133,1.7872296035017712
+[22Dec2024 01:38:09.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -17.873608199079868,2.1757222067810744,-2.8612664703387054
+[22Dec2024 01:38:09.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -17.873608199079868,2.1757222067810744,-2.8612664703387054
+[22Dec2024 01:38:09.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -17.873608199079868,2.1757222067810744,-2.8612664703387054
+[22Dec2024 01:38:09.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -17.873608199079868,2.1757222067810744,-2.8612664703387054
+[22Dec2024 01:38:09.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -17.873608199079868,2.1757222067810744,-2.8612664703387054
+[22Dec2024 01:38:09.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -17.873608199079868,2.1757222067810744,-2.8612664703387054
+[22Dec2024 01:38:09.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -17.873608199079868,2.1757222067810744,-2.8612664703387054
+[22Dec2024 01:38:09.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -16.981911145962727,2.0669360964420207,-2.7036035567781482
+[22Dec2024 01:38:09.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -16.09028326498556,1.958149986102967,-2.5454314635948094
+[22Dec2024 01:38:09.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -15.198717071724602,1.8493638757639133,-2.3868052840107623
+[22Dec2024 01:38:09.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -14.307205891570547,1.7405777654248595,-2.2277741501629293
+[22Dec2024 01:38:09.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -13.415743772106637,1.6317916550858058,-2.068381878092225
+[22Dec2024 01:38:09.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -12.524325404967456,1.523005544746752,-1.9086675429450963
+[22Dec2024 01:38:09.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -11.63294605615259,1.4142194344076984,-1.7486659919381111
+[22Dec2024 01:38:09.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -10.74160150388036,1.3054333240686447,-1.5884083018199249
+[22Dec2024 01:38:09.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved too quickly! -9.850287983165742,1.196647213729591,-1.427922186835815
+[22Dec2024 01:38:48.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved wrongly!
+[22Dec2024 01:45:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 drowned
+[22Dec2024 01:45:44.223] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-788, 17, -534) minecraft:overworld
+[22Dec2024 01:46:00.540] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 01:46:00.541] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 01:46:00.541] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 01:46:00.542] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 01:46:00.542] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 01:46:00.542] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 01:46:00.542] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 01:46:00.542] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 01:46:00.543] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 01:47:21.326] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[22Dec2024 01:47:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [The Cutest Predator]
