@@ -952,3 +952,230 @@
 [22Dec2024 02:26:30.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has reached the goal [Sky's the Limit]
 [22Dec2024 02:27:00.121] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [22Dec2024 02:27:22.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has reached the goal [Sky's the Limit]
+[22Dec2024 02:32:11.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Enderman
+[22Dec2024 02:32:11.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1675, 59, -1355) minecraft:the_end
+[22Dec2024 02:32:30.598] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:32:30.598] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:32:30.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 02:32:30.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:32:30.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:32:30.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:32:30.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:32:30.600] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:32:30.600] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:32:30.600] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:35:13.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell out of the world
+[22Dec2024 02:35:13.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1796, 1, -1646) minecraft:the_end
+[22Dec2024 02:35:53.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell from a high place
+[22Dec2024 02:36:00.806] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:36:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell out of the world
+[22Dec2024 02:36:11.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1791, 1, -1636) minecraft:the_end
+[22Dec2024 02:36:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell out of the world
+[22Dec2024 02:36:39.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:41:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell out of the world
+[22Dec2024 02:41:07.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(977, 1, -1592) minecraft:the_end
+[22Dec2024 02:41:59.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:45:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell out of the world
+[22Dec2024 02:45:17.018] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(729, 1, -1509) minecraft:the_end
+[22Dec2024 02:45:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell out of the world
+[22Dec2024 02:45:54.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell out of the world
+[22Dec2024 02:47:22.350] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[22Dec2024 02:48:29.005] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:50:16.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[22Dec2024 02:50:16.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[22Dec2024 02:52:17.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:38371] logged in with entity id 167872 at (865.8064417919754, -31.832001998297446, -1165.1670794228814)
+[22Dec2024 02:52:17.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[22Dec2024 02:52:22.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[22Dec2024 02:52:22.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[22Dec2024 02:53:12.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Timed out
+[22Dec2024 02:53:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
+[22Dec2024 02:53:12.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:33285] logged in with entity id 167958 at (-451.0901832134718, 64.0, 1386.0552141692633)
+[22Dec2024 02:53:13.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[22Dec2024 02:54:30.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:59699] logged in with entity id 168458 at (865.2410862507811, -67.42860420995173, -1166.062963108157)
+[22Dec2024 02:54:30.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[22Dec2024 02:54:30.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell out of the world
+[22Dec2024 02:54:30.182] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(865, 1, -1167) minecraft:the_end
+[22Dec2024 02:54:31.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved too quickly! 0.0,-11.212911226949956,0.0
+[22Dec2024 02:54:39.816] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:54:39.817] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:54:39.817] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[22Dec2024 02:54:39.817] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 02:54:39.817] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:54:39.818] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:54:39.818] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:54:39.818] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:54:39.818] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:54:39.818] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:54:39.819] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:55:27.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[22Dec2024 02:55:35.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer fell out of the world
+[22Dec2024 02:55:35.020] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(907, 1, -1098) minecraft:the_end
+[22Dec2024 02:55:46.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:55:46.454] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:55:46.454] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 02:55:49.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer fell from a high place
+[22Dec2024 02:55:49.464] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(967, 66, -1594) minecraft:the_end
+[22Dec2024 02:56:00.266] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:56:00.266] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:56:00.266] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 02:56:26.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> [x:865, y:58, z:-1156, dim:minecraft:the_end]
+[22Dec2024 02:56:47.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer fell from a high place
+[22Dec2024 02:56:47.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(865, 58, -1156) minecraft:the_end
+[22Dec2024 02:56:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 has made the advancement [Eye Spy]
+[22Dec2024 02:56:55.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:56:55.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:56:55.938] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 02:56:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 has made the advancement [The End?]
+[22Dec2024 02:58:21.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[22Dec2024 02:58:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[22Dec2024 02:58:39.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:58967] logged in with entity id 173631 at (851.3681482439467, -31.522150846043555, -1005.9187572120546)
+[22Dec2024 02:58:39.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[22Dec2024 02:58:40.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved too quickly! 0.0,-16.078697816252898,0.0
+[22Dec2024 02:58:43.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[22Dec2024 02:58:43.463] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(19482, 57, -6882) minecraft:overworld
+[22Dec2024 02:58:58.261] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:58:58.261] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 02:58:58.261] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[22Dec2024 02:58:58.261] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:58:58.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 02:58:58.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:58:58.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:58:58.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:58:58.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:58:58.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:58:58.262] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 02:59:14.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [x:891, y:56, z:-1006, dim:minecraft:the_end]
+[22Dec2024 02:59:53.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [The City at the End of the Game]
+[22Dec2024 03:00:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [The City at the End of the Game]
+[22Dec2024 03:01:01.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 has made the advancement [Remote Getaway]
+[22Dec2024 03:03:30.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6221ms or 124 ticks behind
+[22Dec2024 03:03:30.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved too quickly! 7.90392771304073,1.024424088213685,6.835214897097188
+[22Dec2024 03:03:34.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 moved too quickly! 5.961811207617984,0.0,8.27740973585469
+[22Dec2024 03:03:41.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Disconnected
+[22Dec2024 03:03:41.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
+[22Dec2024 03:04:09.833] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=25, z=-316}
+[22Dec2024 03:04:09.868] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-315}
+[22Dec2024 03:04:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [name:"-998587, 29006", x:7485245, y:70, z:254758, dim:minecraft:overworld]
+[22Dec2024 03:04:13.654] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=31, z=-307}
+[22Dec2024 03:04:13.654] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-306}
+[22Dec2024 03:04:13.654] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-307}
+[22Dec2024 03:04:13.730] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[22Dec2024 03:04:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [x:7485250, y:85, z:254760, dim:minecraft:overworld]
+[22Dec2024 03:04:18.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:60151] logged in with entity id 181230 at (1058.6703750720499, 58.0, -285.15286625800195)
+[22Dec2024 03:04:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[22Dec2024 03:04:20.192] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[22Dec2024 03:04:20.891] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-306}
+[22Dec2024 03:04:20.892] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-344, y=26, z=-300}
+[22Dec2024 03:04:20.907] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=26, z=-308}
+[22Dec2024 03:04:20.908] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=31, z=-306}
+[22Dec2024 03:04:20.909] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=30, z=-306}
+[22Dec2024 03:04:20.909] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=35, z=-308}
+[22Dec2024 03:04:27.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk moved too quickly! 0.0,-10.811596629254794,0.0
+[22Dec2024 03:04:28.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell from a high place
+[22Dec2024 03:04:28.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7485250, 41, 254760) minecraft:the_end
+[22Dec2024 03:04:35.453] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-271, y=25, z=-319}
+[22Dec2024 03:04:35.814] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[22Dec2024 03:04:35.814] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[22Dec2024 03:04:35.814] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[22Dec2024 03:04:35.815] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[22Dec2024 03:04:35.815] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[22Dec2024 03:04:35.854] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-268, y=25, z=-308}
+[22Dec2024 03:04:35.854] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-307}
+[22Dec2024 03:04:35.855] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=25, z=-307}
+[22Dec2024 03:04:35.855] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-311}
+[22Dec2024 03:04:35.855] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=25, z=-317}
+[22Dec2024 03:04:35.914] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[22Dec2024 03:04:35.915] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[22Dec2024 03:04:35.922] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[22Dec2024 03:04:36.095] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=31, z=-311}
+[22Dec2024 03:04:36.095] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=31, z=-315}
+[22Dec2024 03:04:36.096] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=35, z=-314}
+[22Dec2024 03:04:36.096] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=26, z=-311}
+[22Dec2024 03:04:40.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 03:05:07.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk moved too quickly! 0.0,-10.552241243705609,0.0
+[22Dec2024 03:05:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell from a high place
+[22Dec2024 03:05:08.830] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7485250, 41, 254760) minecraft:the_end
+[22Dec2024 03:05:16.726] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 03:05:38.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [x:7485249, y:84, z:254753, dim:minecraft:overworld]
+[22Dec2024 03:07:16.578] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[22Dec2024 03:07:16.579] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[22Dec2024 03:07:16.579] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[22Dec2024 03:07:16.624] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[22Dec2024 03:07:16.624] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[22Dec2024 03:07:16.624] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[22Dec2024 03:07:16.624] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[22Dec2024 03:07:18.065] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
+[22Dec2024 03:07:18.065] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
+[22Dec2024 03:07:18.065] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
+[22Dec2024 03:07:18.066] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
+[22Dec2024 03:07:18.066] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
+[22Dec2024 03:07:18.066] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
+[22Dec2024 03:07:18.325] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
+[22Dec2024 03:07:18.341] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[22Dec2024 03:07:30.358] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
+[22Dec2024 03:07:30.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
+[22Dec2024 03:07:30.365] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
+[22Dec2024 03:07:30.383] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[22Dec2024 03:07:30.383] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[22Dec2024 03:07:34.514] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[22Dec2024 03:07:36.476] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
+[22Dec2024 03:07:36.930] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
+[22Dec2024 03:07:36.930] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
+[22Dec2024 03:07:36.931] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=31, z=-384}
+[22Dec2024 03:09:10.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Disconnected
+[22Dec2024 03:09:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
+[22Dec2024 03:09:27.628] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=31, z=-384}
+[22Dec2024 03:09:39.854] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[22Dec2024 03:09:39.930] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[22Dec2024 03:09:40.363] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-385}
+[22Dec2024 03:09:40.363] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=33, z=-388}
+[22Dec2024 03:09:40.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=31, z=-381}
+[22Dec2024 03:09:40.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=31, z=-381}
+[22Dec2024 03:09:40.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=26, z=-380}
+[22Dec2024 03:09:40.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=26, z=-380}
+[22Dec2024 03:09:40.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-198, y=28, z=-384}
+[22Dec2024 03:09:40.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=28, z=-380}
+[22Dec2024 03:09:40.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-199, y=33, z=-385}
+[22Dec2024 03:09:40.371] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
+[22Dec2024 03:09:40.372] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
+[22Dec2024 03:09:40.372] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
+[22Dec2024 03:09:40.372] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
+[22Dec2024 03:09:40.372] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
+[22Dec2024 03:09:40.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=26, z=-380}
+[22Dec2024 03:09:40.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=26, z=-380}
+[22Dec2024 03:09:40.380] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=28, z=-380}
+[22Dec2024 03:09:40.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-385}
+[22Dec2024 03:09:40.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=33, z=-388}
+[22Dec2024 03:09:40.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=31, z=-381}
+[22Dec2024 03:09:40.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=31, z=-381}
+[22Dec2024 03:09:40.393] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-198, y=28, z=-384}
+[22Dec2024 03:09:40.393] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-199, y=33, z=-385}
+[22Dec2024 03:09:40.474] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[22Dec2024 03:10:08.522] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[22Dec2024 03:10:08.535] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[22Dec2024 03:10:08.539] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[22Dec2024 03:10:08.540] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[22Dec2024 03:10:08.707] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[22Dec2024 03:10:11.100] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[22Dec2024 03:10:15.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7485071, y=66, z=254133} BlockPos{x=7485072, y=64, z=254132}
+[22Dec2024 03:10:15.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7485071, y=66, z=254133} BlockPos{x=7485072, y=64, z=254132}
+[22Dec2024 03:10:16.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7485071, y=65, z=254134} BlockPos{x=7485070, y=64, z=254134}
+[22Dec2024 03:10:16.355] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
+[22Dec2024 03:10:16.355] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
+[22Dec2024 03:10:16.355] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
+[22Dec2024 03:10:16.355] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
+[22Dec2024 03:10:17.241] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
+[22Dec2024 03:10:17.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7485066, y=66, z=254130} BlockPos{x=7485066, y=65, z=254131}
+[22Dec2024 03:10:27.308] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[22Dec2024 03:10:27.308] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[22Dec2024 03:10:28.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7485074, y=66, z=254120} BlockPos{x=7485073, y=64, z=254121}
+[22Dec2024 03:10:28.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7485074, y=66, z=254120} BlockPos{x=7485073, y=64, z=254121}
+[22Dec2024 03:10:53.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/194147, l='ServerLevel[world]', x=7484926.62, y=71.32, z=254306.03] died, message: 'Villager was slain by Lightning Dragon'
+[22Dec2024 03:10:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Best Friends Forever]
+[22Dec2024 03:11:07.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:37467] logged in with entity id 196878 at (1167.7259713047897, 58.0, -488.29323999706935)
+[22Dec2024 03:11:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[22Dec2024 03:11:08.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Leodrickk) moved wrongly! 0.2904176451265812
+[22Dec2024 03:11:08.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Leodrickk) moved wrongly! 0.8786244476214051
+[22Dec2024 03:11:08.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Leodrickk) moved wrongly! 1.4906390253454447
+[22Dec2024 03:11:08.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Leodrickk) moved wrongly! 2.1165292635560036
+[22Dec2024 03:11:08.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Leodrickk) moved wrongly! 2.749844091013074

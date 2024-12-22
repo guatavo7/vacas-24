@@ -7400,21 +7400,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "dungeons_arise:find_abandoned_temple": {
     "criteria": {
-      "burrowing_arrow": "2024-12-22 02:13:14 +0000"
+      "location0": "2024-12-22 02:12:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-22 02:12:53 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-12-22 02:12:05 +0000"
     },
     "done": true
   },
@@ -7433,6 +7427,30 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2024-12-22 02:12:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-22 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-22 02:32:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2024-12-22 02:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-22 02:32:00 +0000"
     },
     "done": true
   },

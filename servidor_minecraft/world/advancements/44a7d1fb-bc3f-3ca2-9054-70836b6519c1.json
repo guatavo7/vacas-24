@@ -39,12 +39,15 @@
     "criteria": {
       "minecraft:taiga": "2024-12-20 19:16:31 +0000",
       "minecraft:deep_ocean": "2024-12-16 22:48:23 +0000",
+      "minecraft:eroded_badlands": "2024-12-22 02:47:48 +0000",
       "minecraft:cherry_grove": "2024-12-12 01:44:51 +0000",
       "minecraft:birch_forest": "2024-12-20 19:04:07 +0000",
       "minecraft:savanna_plateau": "2024-12-03 15:08:06 +0000",
       "minecraft:beach": "2024-12-20 21:23:54 +0000",
+      "minecraft:stony_peaks": "2024-12-22 02:46:54 +0000",
       "minecraft:sparse_jungle": "2024-12-20 20:01:23 +0000",
       "minecraft:river": "2024-12-16 21:17:55 +0000",
+      "minecraft:stony_shore": "2024-12-22 02:47:24 +0000",
       "minecraft:dripstone_caves": "2024-12-03 15:23:35 +0000",
       "minecraft:swamp": "2024-12-20 21:21:54 +0000",
       "minecraft:grove": "2024-12-22 01:55:00 +0000",
@@ -1108,6 +1111,7 @@
       "minecraft:creeper": "2024-12-11 03:01:50 +0000",
       "minecraft:wither_skeleton": "2024-12-11 02:28:10 +0000",
       "minecraft:husk": "2024-12-11 02:53:20 +0000",
+      "minecraft:shulker": "2024-12-22 03:00:27 +0000",
       "minecraft:cave_spider": "2024-12-11 02:36:12 +0000",
       "minecraft:enderman": "2024-12-20 20:10:50 +0000",
       "minecraft:zombie": "2024-12-11 03:04:49 +0000"
@@ -5531,9 +5535,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-22 02:59:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-22 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-22 02:32:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 03:06:30 +0000"
     },
     "done": true
   },
@@ -5543,15 +5565,99 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 03:06:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2024-12-22 02:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-22 02:23:24 +0000"
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-22 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-22 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-22 02:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-22 03:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-22 02:59:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2024-12-22 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 03:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-22 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-22 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-22 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2024-12-22 03:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-22 02:59:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 03:06:30 +0000"
     },
     "done": true
   },
