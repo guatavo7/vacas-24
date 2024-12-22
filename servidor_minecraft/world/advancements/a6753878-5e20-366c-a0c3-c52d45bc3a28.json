@@ -7191,45 +7191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "has_brown_wool": "2024-12-21 04:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2024-12-21 04:46:10 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location0": "2024-12-21 04:37:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-21 04:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-12-21 04:33:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2024-12-21 04:33:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2024-12-21 04:23:45 +0000"
+      "bestiary": "2024-12-21 04:13:26 +0000"
     },
     "done": true
   },
@@ -7239,21 +7203,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_soul_sand": "2024-12-21 07:42:50 +0000"
+      "has_cod": "2024-12-21 04:19:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_bone_block": "2024-12-21 05:49:54 +0000"
+      "has_cod": "2024-12-21 04:19:03 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_meal": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "bestiary": "2024-12-21 04:31:48 +0000"
+      "has_cod": "2024-12-21 04:19:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-21 04:23:39 +0000"
     },
     "done": true
   },
@@ -7269,15 +7239,63 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
-      "bestiary": "2024-12-21 04:13:26 +0000"
+      "has_item": "2024-12-21 04:23:45 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/smelting/scoria": {
+  "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
-      "has_item": "2024-12-21 07:42:50 +0000"
+      "bestiary": "2024-12-21 04:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-21 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-21 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-21 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-21 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2024-12-21 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-21 04:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-21 04:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-21 04:46:10 +0000"
     },
     "done": true
   },
@@ -7293,15 +7311,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "has_rabbit": "2024-12-21 04:33:09 +0000"
+      "killed_by": "2024-12-21 05:16:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "has_nether_wart": "2024-12-21 07:42:50 +0000"
+      "has_bone_block": "2024-12-21 05:49:54 +0000"
     },
     "done": true
   },
@@ -7311,51 +7329,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-21 07:42:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-21 07:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-21 07:42:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-21 07:42:50 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2024-12-21 04:45:01 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2024-12-21 05:16:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-21 07:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-21 04:19:03 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2024-12-21 04:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-21 04:19:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
-    "criteria": {
-      "has_item": "2024-12-21 04:23:39 +0000"
     },
     "done": true
   },
