@@ -9049,3 +9049,63 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 05:22:53.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [22Dec2024 05:23:11.658] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
 [22Dec2024 05:23:49.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[22Dec2024 05:24:27.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:24:27.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:24:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Book of Monsters]
+[22Dec2024 05:24:43.619] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[22Dec2024 05:24:45.035] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[22Dec2024 05:24:45.065] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[22Dec2024 05:24:45.094] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[22Dec2024 05:24:45.102] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[22Dec2024 05:24:45.125] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[22Dec2024 05:25:16.388] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-728, y=80, z=818}
+[22Dec2024 05:25:16.388] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[22Dec2024 05:25:16.388] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[22Dec2024 05:25:16.388] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJJxx0x+nXeP1761PR+txPXkmPfSpJK
+[22Dec2024 05:25:36.741] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/Draugar/Elite_Draugr_Entity$CrossbowState
+[22Dec2024 05:25:49.450] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-313, y=27, z=-819}
+[22Dec2024 05:25:49.452] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-311, y=27, z=-810}
+[22Dec2024 05:25:49.452] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=27, z=-810}
+[22Dec2024 05:25:49.503] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-819}
+[22Dec2024 05:25:49.504] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-813}
+[22Dec2024 05:25:50.004] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=27, z=-813}
+[22Dec2024 05:25:50.109] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-255, y=27, z=-818}
+[22Dec2024 05:25:50.110] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-254, y=30, z=-817}
+[22Dec2024 05:25:52.886] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[22Dec2024 05:25:53.041] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-311, y=27, z=-810}
+[22Dec2024 05:25:53.041] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=27, z=-810}
+[22Dec2024 05:25:53.043] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-215, y=27, z=-818}
+[22Dec2024 05:25:53.043] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=27, z=-818}
+[22Dec2024 05:25:53.044] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=30, z=-818}
+[22Dec2024 05:25:53.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-313, y=27, z=-819}
+[22Dec2024 05:25:53.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-819}
+[22Dec2024 05:25:53.054] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-308, y=27, z=-813}
+[22Dec2024 05:25:53.071] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-813}
+[22Dec2024 05:26:11.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was blown up by Mutant Creeper
+[22Dec2024 05:26:11.040] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20764, 65, -8918) minecraft:overworld
+[22Dec2024 05:26:12.648] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
+[22Dec2024 05:26:24.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 05:26:24.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 05:26:24.908] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:26:24.908] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:26:24.908] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:26:24.908] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 05:26:24.908] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:26:24.909] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:26:24.909] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:26:24.909] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:26:24.909] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:29:27.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:29:27.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:29:34.702] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[22Dec2024 05:30:07.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [What a Deal!]
+[22Dec2024 05:33:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Fire Dragon
+[22Dec2024 05:33:46.382] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-447, 73, 946) minecraft:overworld
+[22Dec2024 05:33:48.539] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 05:33:56.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47518, l='ServerLevel[world]', x=-490.10, y=76.77, z=949.15] died, message: 'Villager was incinerated by Fire Dragon'
+[22Dec2024 05:33:56.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47521, l='ServerLevel[world]', x=-490.69, y=77.00, z=946.77] died, message: 'Villager was turned into KFC by Fire Dragon'
+[22Dec2024 05:34:27.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:34:27.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:34:35.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Fire Dragon
+[22Dec2024 05:34:35.190] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-415, 70, 926) minecraft:overworld
+[22Dec2024 05:34:37.284] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
