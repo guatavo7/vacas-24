@@ -3668,3 +3668,21 @@ java.lang.IndexOutOfBoundsException: Index 13610 out of bounds for length 51
 [22Dec2024 07:07:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has completed the challenge [Hero of the Village]
 [22Dec2024 07:18:49.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
 [22Dec2024 07:18:49.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
+[22Dec2024 07:20:06.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[22Dec2024 07:20:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[22Dec2024 07:20:16.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Dec2024 07:20:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Dec2024 07:20:16.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Dec2024 07:20:16.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Dec2024 07:20:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Dec2024 07:20:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Dec2024 07:20:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Dec2024 07:20:16.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[22Dec2024 07:20:16.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[22Dec2024 07:20:16.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Dec2024 07:20:16.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Dec2024 07:20:16.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Dec2024 07:20:16.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[22Dec2024 07:20:16.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Dec2024 07:20:16.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Dec2024 07:20:17.158] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
