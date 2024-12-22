@@ -55,6 +55,7 @@
       "minecraft:river": "2024-12-03 02:25:09 +0000",
       "minecraft:lukewarm_ocean": "2024-12-06 16:53:25 +0000",
       "minecraft:stony_shore": "2024-12-03 02:11:24 +0000",
+      "minecraft:snowy_plains": "2024-12-22 05:59:29 +0000",
       "minecraft:dripstone_caves": "2024-12-03 16:03:54 +0000",
       "minecraft:swamp": "2024-12-09 00:31:08 +0000",
       "minecraft:jagged_peaks": "2024-12-20 21:28:31 +0000",
@@ -7539,6 +7540,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-22 05:30:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-22 06:02:25 +0000"
     },
     "done": true
   },

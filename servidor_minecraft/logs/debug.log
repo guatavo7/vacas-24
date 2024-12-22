@@ -9153,3 +9153,144 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 05:54:27.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 05:54:27.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Dec2024 05:55:30.726] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[22Dec2024 05:56:18.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Tusklin
+[22Dec2024 05:56:18.478] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20441, 73, -7740) minecraft:overworld
+[22Dec2024 05:56:20.091] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
+[22Dec2024 05:56:24.656] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 05:56:24.663] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 05:56:24.663] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:56:24.664] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:56:24.664] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:56:24.666] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 05:56:24.677] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:56:24.680] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:56:24.685] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:56:24.685] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:56:24.685] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:57:38.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> [name:"W7", x:20473, y:69, z:-7779, dim:minecraft:overworld]
+[22Dec2024 05:59:13.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned to ice by Ice Dragon
+[22Dec2024 05:59:13.375] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20470, 1, -7776) minecraft:overworld
+[22Dec2024 05:59:15.121] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 05:59:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned to ice by Ice Dragon
+[22Dec2024 05:59:27.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:59:27.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:59:29.129] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 05:59:32.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was turned to ice by Ice Dragon
+[22Dec2024 05:59:32.720] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20471, 0, -7777) minecraft:overworld
+[22Dec2024 05:59:34.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was frozen by Ice Dragon
+[22Dec2024 05:59:36.016] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 05:59:36.315] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 05:59:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abdias_17> que mrd
+[22Dec2024 05:59:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was frozen by Ice Dragon
+[22Dec2024 05:59:43.507] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 05:59:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Ice Dragon
+[22Dec2024 05:59:43.971] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20473, -8, -7782) minecraft:overworld
+[22Dec2024 05:59:45.346] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
+[22Dec2024 05:59:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 05:59:52.894] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 05:59:54.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 fell from a high place
+[22Dec2024 05:59:55.654] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 05:59:59.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 05:59:59.825] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20466, 3, -7768) minecraft:overworld
+[22Dec2024 06:00:01.362] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:00:07.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 06:00:07.229] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20466, 1, -7769) minecraft:overworld
+[22Dec2024 06:00:08.557] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:00:11.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 06:00:13.437] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:00:15.668] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:00:15.669] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:00:15.669] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:15.670] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:15.670] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:15.670] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 06:00:15.670] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:15.670] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:15.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:15.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:15.671] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:00:24.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
+[22Dec2024 06:00:24.320] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20475, -1, -7786) minecraft:overworld
+[22Dec2024 06:00:25.997] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:00:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 06:00:27.172] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20491, 3, -7778) minecraft:overworld
+[22Dec2024 06:00:28.593] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:00:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 06:00:35.371] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20464, 3, -7768) minecraft:overworld
+[22Dec2024 06:00:35.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
+[22Dec2024 06:00:35.866] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20473, -1, -7778) minecraft:overworld
+[22Dec2024 06:00:36.796] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:00:37.170] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:00:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 06:00:43.766] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:00:47.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was blown up by Creeper
+[22Dec2024 06:00:48.829] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:00:51.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
+[22Dec2024 06:00:55.638] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:01:00.695] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:01:00.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:01:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was doomed to fall
+[22Dec2024 06:01:10.099] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:01:18.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was frozen by Ice Dragon
+[22Dec2024 06:01:19.704] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:01:33.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
+[22Dec2024 06:01:35.548] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:01:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was turned to ice by Ice Dragon
+[22Dec2024 06:01:45.127] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:01:46.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned to ice by Ice Dragon
+[22Dec2024 06:01:46.924] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20469, -7, -7773) minecraft:overworld
+[22Dec2024 06:01:48.398] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:01:54.321] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:01:54.322] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:01:58.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was turned to ice by Ice Dragon
+[22Dec2024 06:01:58.268] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20476, -1, -7772) minecraft:overworld
+[22Dec2024 06:01:59.824] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:02:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 06:02:05.571] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20492, 2, -7780) minecraft:overworld
+[22Dec2024 06:02:06.896] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
+[22Dec2024 06:02:07.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
+[22Dec2024 06:02:09.703] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:02:14.339] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:02:14.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:02:14.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:14.340] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:14.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:14.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 06:02:14.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:14.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:14.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:14.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:14.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Ice Dragon
+[22Dec2024 06:02:29.121] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20487, 2, -7797) minecraft:overworld
+[22Dec2024 06:02:30.384] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
+[22Dec2024 06:02:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was pricked to death
+[22Dec2024 06:02:41.112] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:02:53.526] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:02:53.527] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:02:53.527] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:53.528] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:53.528] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:53.528] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 06:02:53.529] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:53.529] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:53.529] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:53.529] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:02:53.529] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 06:03:27.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 06:03:27.418] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20456, -6, -7784) minecraft:overworld
+[22Dec2024 06:03:28.882] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 06:03:34.744] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:03:34.745] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 06:04:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
+[22Dec2024 06:04:06.670] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20486, 6, -7773) minecraft:overworld
+[22Dec2024 06:04:09.616] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:04:27.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:04:27.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 06:04:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was pricked to death
+[22Dec2024 06:04:36.746] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:05:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
+[22Dec2024 06:05:12.841] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20475, 0, -7768) minecraft:overworld
+[22Dec2024 06:05:14.267] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[22Dec2024 06:05:36.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was pricked to death
+[22Dec2024 06:05:40.250] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
