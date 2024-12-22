@@ -5399,6 +5399,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2024-12-22 01:55:58 +0000"
@@ -5408,6 +5420,30 @@
   "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
       "sword": "2024-12-22 01:13:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
     },
     "done": true
   },
@@ -5423,15 +5459,69 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-22 02:00:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2024-12-22 01:55:58 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
+    "criteria": {
+      "has_dragonsteel_ice_ingot": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-22 01:57:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-22 02:00:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2024-12-22 01:55:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-22 01:57:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-22 02:04:49 +0000"
     },
     "done": true
   },
