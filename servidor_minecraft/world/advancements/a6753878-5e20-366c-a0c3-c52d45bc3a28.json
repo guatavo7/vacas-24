@@ -7522,6 +7522,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-22 06:51:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
       "core": "2024-12-22 06:28:45 +0000"
