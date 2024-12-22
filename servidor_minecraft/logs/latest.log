@@ -1015,3 +1015,15 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 06:05:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ice Dragon
 [22Dec2024 06:05:12.841] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20475, 0, -7768) minecraft:overworld
 [22Dec2024 06:05:36.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was pricked to death
+[22Dec2024 06:07:52.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was burnt to a crisp whilst fighting Crisogamaer
+[22Dec2024 06:07:52.272] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20457, -3, -7787) minecraft:overworld
+[22Dec2024 06:08:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 burned to death
+[22Dec2024 06:08:35.425] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(20456, -3, -7790) minecraft:overworld
+[22Dec2024 06:09:12.225] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[22Dec2024 06:12:33.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abdias_17> chao
+[22Dec2024 06:12:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <abdias_17> chaoooo
+[22Dec2024 06:12:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> chao
+[22Dec2024 06:12:39.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> CHAOOOO
+[22Dec2024 06:12:45.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
+[22Dec2024 06:12:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[22Dec2024 06:13:55.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Dragon Commander]
