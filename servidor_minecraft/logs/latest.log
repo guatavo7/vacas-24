@@ -822,3 +822,22 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 05:00:09.775] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481343, -6, 253114) minecraft:overworld
 [22Dec2024 05:00:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was pricked to death
 [22Dec2024 05:02:13.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[22Dec2024 05:05:29.643] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 05:05:29.644] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 05:05:29.645] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:05:29.645] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:05:29.645] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:05:29.645] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:05:29.645] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[22Dec2024 05:05:29.646] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:05:29.646] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:05:29.646] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:05:29.646] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[22Dec2024 05:06:18.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[22Dec2024 05:06:47.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
+[22Dec2024 05:06:47.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[22Dec2024 05:09:14.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[22Dec2024 05:09:18.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[22Dec2024 05:09:32.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/127.11.76.3:56457] logged in with entity id 22093 at (597.9662304705397, 237.0, 488.9739036607712)
+[22Dec2024 05:09:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[22Dec2024 05:10:56.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
