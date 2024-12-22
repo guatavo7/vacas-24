@@ -6169,3 +6169,8 @@ Caused by: java.io.IOException: Packet 0/17 (ServerboundJigsawGeneratePacket) wa
 [22Dec2024 04:15:11.998] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
 [22Dec2024 04:15:15.407] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
 [22Dec2024 04:15:25.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/292893, l='ServerLevel[world]', x=7481602.04, y=97.62, z=253219.85] died, message: 'Villager was slain by Ice Dragon'
+[22Dec2024 04:15:56.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/292550, l='ServerLevel[world]', x=7481607.72, y=97.00, z=253141.63] died, message: 'Villager suffocated in a wall'
+[22Dec2024 04:16:07.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/292748, l='ServerLevel[world]', x=7481606.72, y=97.00, z=253184.63] died, message: 'Villager suffocated in a wall'
+[22Dec2024 04:21:11.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved too quickly! -5.587014043703675,5.437556251749498,6.580060163745657
+[22Dec2024 04:21:11.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5701ms or 114 ticks behind
+[22Dec2024 04:24:33.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> [name:"w6", x:7481343, y:113, z:253108, dim:minecraft:overworld]
