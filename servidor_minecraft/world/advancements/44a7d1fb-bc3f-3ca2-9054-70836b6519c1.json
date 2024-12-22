@@ -5559,9 +5559,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-12-22 03:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-12-22 02:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-22 03:10:55 +0000"
     },
     "done": true
   },
@@ -5631,9 +5643,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-22 03:12:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-22 03:12:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-22 03:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-12-22 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-12-22 03:08:05 +0000"
     },
     "done": true
   },

@@ -7454,5 +7454,47 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-22 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-22 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-22 03:06:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

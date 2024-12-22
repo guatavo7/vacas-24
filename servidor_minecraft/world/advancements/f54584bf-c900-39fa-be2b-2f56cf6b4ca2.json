@@ -53,6 +53,7 @@
       "minecraft:snowy_plains": "2024-12-21 04:25:17 +0000",
       "minecraft:dripstone_caves": "2024-12-10 00:25:34 +0000",
       "minecraft:grove": "2024-12-21 06:46:26 +0000",
+      "minecraft:jagged_peaks": "2024-12-22 03:17:40 +0000",
       "minecraft:cold_ocean": "2024-12-16 00:14:08 +0000",
       "minecraft:forest": "2024-12-09 23:20:06 +0000",
       "minecraft:lush_caves": "2024-12-10 00:25:21 +0000",
@@ -7327,6 +7328,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-12-22 03:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-12-22 02:22:21 +0000"
@@ -7369,15 +7382,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-22 03:19:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2024-12-22 02:17:15 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-22 03:19:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2024-12-22 02:42:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-12-22 03:07:50 +0000"
     },
     "done": true
   },
