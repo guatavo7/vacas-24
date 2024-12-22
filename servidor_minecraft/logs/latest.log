@@ -841,3 +841,15 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 05:09:32.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/127.11.76.3:56457] logged in with entity id 22093 at (597.9662304705397, 237.0, 488.9739036607712)
 [22Dec2024 05:09:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
 [22Dec2024 05:10:56.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[22Dec2024 05:14:52.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[22Dec2024 05:17:47.896] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[22Dec2024 05:17:47.987] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[22Dec2024 05:17:52.891] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[22Dec2024 05:17:54.658] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[22Dec2024 05:17:54.660] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[22Dec2024 05:17:54.661] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[22Dec2024 05:17:54.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[22Dec2024 05:21:35.712] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
+[22Dec2024 05:22:53.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[22Dec2024 05:23:11.658] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 05:23:49.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem

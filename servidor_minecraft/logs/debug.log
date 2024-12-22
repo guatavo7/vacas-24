@@ -8959,3 +8959,93 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 05:09:32.196] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 300 classes
 [22Dec2024 05:09:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
 [22Dec2024 05:10:56.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[22Dec2024 05:14:27.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:14:27.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:14:52.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[22Dec2024 05:17:36.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[22Dec2024 05:17:36.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_0
+[22Dec2024 05:17:36.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_5
+[22Dec2024 05:17:36.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_1
+[22Dec2024 05:17:36.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0
+[22Dec2024 05:17:36.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0
+[22Dec2024 05:17:36.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_0
+[22Dec2024 05:17:36.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_3
+[22Dec2024 05:17:36.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_1
+[22Dec2024 05:17:36.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_1
+[22Dec2024 05:17:36.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0
+[22Dec2024 05:17:36.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_3
+[22Dec2024 05:17:36.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_0
+[22Dec2024 05:17:36.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_2
+[22Dec2024 05:17:36.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_2
+[22Dec2024 05:17:36.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_4
+[22Dec2024 05:17:36.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_4
+[22Dec2024 05:17:47.140] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22Dec2024 05:17:47.145] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22Dec2024 05:17:47.896] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[22Dec2024 05:17:47.987] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[22Dec2024 05:17:52.726] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Dec2024 05:17:52.891] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[22Dec2024 05:17:54.658] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[22Dec2024 05:17:54.660] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[22Dec2024 05:17:54.661] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[22Dec2024 05:17:54.662] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[22Dec2024 05:18:00.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[22Dec2024 05:18:00.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[22Dec2024 05:18:00.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[22Dec2024 05:18:00.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[22Dec2024 05:18:00.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[22Dec2024 05:18:00.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[22Dec2024 05:18:00.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[22Dec2024 05:18:00.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[22Dec2024 05:18:00.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[22Dec2024 05:18:00.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[22Dec2024 05:18:00.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[22Dec2024 05:18:00.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[22Dec2024 05:18:00.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[22Dec2024 05:18:00.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[22Dec2024 05:18:00.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[22Dec2024 05:18:00.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[22Dec2024 05:18:00.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[22Dec2024 05:18:00.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[22Dec2024 05:18:00.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[22Dec2024 05:18:00.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[22Dec2024 05:18:00.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[22Dec2024 05:18:00.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[22Dec2024 05:18:00.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[22Dec2024 05:18:00.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[22Dec2024 05:18:00.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[22Dec2024 05:18:00.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[22Dec2024 05:18:00.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[22Dec2024 05:18:00.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[22Dec2024 05:18:03.591] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-647, y=102, z=989}
+[22Dec2024 05:18:03.591] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:cherry}
+[22Dec2024 05:18:03.591] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[22Dec2024 05:18:03.591] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJxxOOOOPvWXvz86q+bxxfneZn18niky8+SiS9ppxx76X
+[22Dec2024 05:19:27.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:19:27.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:21:29.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[22Dec2024 05:21:29.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[22Dec2024 05:21:29.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[22Dec2024 05:21:29.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[22Dec2024 05:21:29.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[22Dec2024 05:21:35.712] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
+[22Dec2024 05:21:37.283] [Worker-Main-3/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[22Dec2024 05:21:47.505] [Worker-Main-2/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[22Dec2024 05:21:47.505] [Worker-Main-2/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$775689$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[22Dec2024 05:22:29.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[22Dec2024 05:22:29.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[22Dec2024 05:22:29.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[22Dec2024 05:22:29.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[22Dec2024 05:22:29.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[22Dec2024 05:22:29.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[22Dec2024 05:22:31.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[22Dec2024 05:22:31.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[22Dec2024 05:22:31.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[22Dec2024 05:22:35.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[22Dec2024 05:22:39.241] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=20463, y=68, z=-7650}
+[22Dec2024 05:22:39.242] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[22Dec2024 05:22:39.242] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[22Dec2024 05:22:39.242] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJ+X1q8zfnzefnyWX18+tvkz+Xnzzzz89vk+WSy+vnky89uS9f
+[22Dec2024 05:22:53.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[22Dec2024 05:23:11.658] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 05:23:49.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
