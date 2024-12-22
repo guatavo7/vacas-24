@@ -721,3 +721,37 @@
 [22Dec2024 01:15:23.504] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [22Dec2024 01:15:25.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was energized by Lightning Dragon
 [22Dec2024 01:15:25.252] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-881, 72, -787) minecraft:overworld
+[22Dec2024 01:16:27.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 01:17:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was energized by Lightning Dragon
+[22Dec2024 01:17:51.351] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-841, 77, -821) minecraft:overworld
+[22Dec2024 01:18:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Lightning Dragon
+[22Dec2024 01:18:50.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Lightning Dragon
+[22Dec2024 01:19:44.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was struck with lightning by Lightning Dragon
+[22Dec2024 01:20:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was energized by Lightning Dragon
+[22Dec2024 01:20:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Lightning Dragon
+[22Dec2024 01:21:01.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was struck with lightning by Lightning Dragon
+[22Dec2024 01:21:01.263] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-844, 73, -826) minecraft:overworld
+[22Dec2024 01:21:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Lightning Dragon
+[22Dec2024 01:21:37.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[22Dec2024 01:21:59.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Lightning Dragon
+[22Dec2024 01:21:59.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-864, 73, -825) minecraft:overworld
+[22Dec2024 01:22:22.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was struck with lightning by Lightning Dragon
+[22Dec2024 01:22:25.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/client/Constants$WorldType
+[22Dec2024 01:22:48.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [It Belongs in a Museum]
+[22Dec2024 01:23:10.204] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[22Dec2024 01:23:20.163] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[22Dec2024 01:23:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was energized by Lightning Dragon
+[22Dec2024 01:23:36.016] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-862, 72, -828) minecraft:overworld
+[22Dec2024 01:23:38.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[22Dec2024 01:23:38.540] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[22Dec2024 01:23:46.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved too quickly! 6.581020228288253,-0.6230349677610292,-8.155542284204785
+[22Dec2024 01:23:54.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was energized by Lightning Dragon
+[22Dec2024 01:23:57.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/127.11.76.3:57097] logged in with entity id 32378 at (599.890029120221, 237.0, 488.3781995493232)
+[22Dec2024 01:23:57.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[22Dec2024 01:24:21.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Lightning Dragon
+[22Dec2024 01:24:21.056] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-864, 72, -828) minecraft:overworld
+[22Dec2024 01:24:39.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was energized by Lightning Dragon
+[22Dec2024 01:24:39.422] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-865, 72, -828) minecraft:overworld
+[22Dec2024 01:24:48.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[22Dec2024 01:24:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> NO TENGO
+[22Dec2024 01:26:01.216] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
