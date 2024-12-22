@@ -899,3 +899,16 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 05:36:01.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-486, 74, 874) minecraft:overworld
 [22Dec2024 05:36:15.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/53404, l='ServerLevel[world]', x=-491.35, y=78.00, z=869.51] died, message: 'Fletcher was slain by Fire Dragon'
 [22Dec2024 05:37:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Dragonslayer]
+[22Dec2024 05:47:22.225] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[22Dec2024 05:47:22.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[22Dec2024 05:51:46.140] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=27, z=-875}
+[22Dec2024 05:51:46.141] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-300, y=27, z=-877}
+[22Dec2024 05:51:46.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-814}
+[22Dec2024 05:51:46.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=30, z=-814}
+[22Dec2024 05:51:46.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=27, z=-813}
+[22Dec2024 05:51:46.190] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-813}
+[22Dec2024 05:51:46.191] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-813}
+[22Dec2024 05:51:46.195] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
+[22Dec2024 05:52:59.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved too quickly! -2.3976835377798125,-0.20962498688697906,10.453548516316005
+[22Dec2024 05:53:47.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/Coralssus_Entity$Variant
+[22Dec2024 05:55:30.726] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
