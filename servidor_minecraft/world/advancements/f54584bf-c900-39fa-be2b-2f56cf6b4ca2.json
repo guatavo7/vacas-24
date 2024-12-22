@@ -7423,6 +7423,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-22 04:30:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-22 03:19:21 +0000"

@@ -6174,3 +6174,61 @@ Caused by: java.io.IOException: Packet 0/17 (ServerboundJigsawGeneratePacket) wa
 [22Dec2024 04:21:11.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved too quickly! -5.587014043703675,5.437556251749498,6.580060163745657
 [22Dec2024 04:21:11.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5701ms or 114 ticks behind
 [22Dec2024 04:24:33.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> [name:"w6", x:7481343, y:113, z:253108, dim:minecraft:overworld]
+[22Dec2024 04:28:20.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Ice Dragon
+[22Dec2024 04:28:20.496] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481346, 21, 253114) minecraft:overworld
+[22Dec2024 04:28:47.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned to ice by Ice Dragon
+[22Dec2024 04:28:47.297] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481329, -1, 253124) minecraft:overworld
+[22Dec2024 04:28:47.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:28:47.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481359, 6, 253116) minecraft:overworld
+[22Dec2024 04:29:03.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:29:10.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was frozen by Ice Dragon
+[22Dec2024 04:29:10.356] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481357, 6, 253112) minecraft:overworld
+[22Dec2024 04:29:19.494] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 04:30:18.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was frozen by Ice Dragon
+[22Dec2024 04:30:18.743] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481348, 4, 253119) minecraft:overworld
+[22Dec2024 04:30:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has reached the goal [Postmortal]
+[22Dec2024 04:30:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:30:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 04:30:33.437] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481346, 1, 253119) minecraft:overworld
+[22Dec2024 04:30:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:30:42.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 04:30:47.137] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 04:30:47.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 04:30:51.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:30:58.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was frozen by Ice Dragon
+[22Dec2024 04:30:58.947] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481343, -2, 253117) minecraft:overworld
+[22Dec2024 04:30:59.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:31:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 04:31:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:31:19.745] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481339, -10, 253111) minecraft:overworld
+[22Dec2024 04:31:21.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 04:31:21.400] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481343, -6, 253113) minecraft:overworld
+[22Dec2024 04:31:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 04:31:30.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ice Dragon
+[22Dec2024 04:31:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 walked into a cactus whilst trying to escape Ice Dragon
+[22Dec2024 04:31:35.999] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481358, 5, 253115) minecraft:overworld
+[22Dec2024 04:31:38.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned to ice by Ice Dragon
+[22Dec2024 04:31:44.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned to ice by Ice Dragon
+[22Dec2024 04:31:49.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was frozen by Ice Dragon
+[22Dec2024 04:31:54.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned to ice by Ice Dragon
+[22Dec2024 04:32:05.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 04:32:05.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 04:32:18.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was frozen by Ice Dragon
+[22Dec2024 04:32:18.797] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481359, 15, 253112) minecraft:overworld
+[22Dec2024 04:32:33.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[22Dec2024 04:32:33.153] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481358, -31, 253116) minecraft:overworld
+[22Dec2024 04:32:51.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned to ice by Ice Dragon
+[22Dec2024 04:32:51.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481356, 3, 253116) minecraft:overworld
+[22Dec2024 04:32:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was doomed to fall by Ice Dragon
+[22Dec2024 04:32:51.982] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481351, -22, 253111) minecraft:overworld
+[22Dec2024 04:32:57.828] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 04:32:57.829] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 04:33:08.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Ice Dragon
+[22Dec2024 04:33:08.148] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481357, -1, 253117) minecraft:overworld
+[22Dec2024 04:33:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was doomed to fall
+[22Dec2024 04:33:20.810] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(7481360, -35, 253118) minecraft:overworld
+[22Dec2024 04:34:36.782] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[22Dec2024 04:34:36.783] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22Dec2024 04:34:37.311] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6519157f-3176-4b75-bd53-062261c796ce
+[22Dec2024 04:34:37.347] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6e23b9e7-2a5a-4256-b43b-e6d212cfdecc
+[22Dec2024 04:34:37.348] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/vacas-24/servidor_minecraft/./crash-reports/crash-2024-12-22_04.34.37-server.txt
