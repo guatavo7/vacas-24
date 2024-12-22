@@ -9458,3 +9458,88 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Dec2024 01:46:36.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Dec2024 01:47:21.326] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [22Dec2024 01:47:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [The Cutest Predator]
+[22Dec2024 01:47:45.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[22Dec2024 01:47:45.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[22Dec2024 01:48:47.263] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-998289, y=77, z=89408}
+[22Dec2024 01:48:47.264] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[22Dec2024 01:48:47.264] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 7
+[22Dec2024 01:48:47.264] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxOOOOJ+fyS8mfXtz+Xvzebntbr6WXkUWXnkeb8mefk6y8nySWqq8UX1tyWS9uXvubvvkzfUkU
+[22Dec2024 01:48:47.268] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-62394, 5586], pos: BlockPos{x=-998293, y=81, z=89391}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
+[22Dec2024 01:48:47.268] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-62394, 5586], pos: BlockPos{x=-998292, y=81, z=89391}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
+[22Dec2024 01:48:47.268] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-62394, 5586], pos: BlockPos{x=-998291, y=81, z=89391}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
+[22Dec2024 01:48:47.269] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-62394, 5586], pos: BlockPos{x=-998295, y=81, z=89391}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
+[22Dec2024 01:48:47.269] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-62394, 5586], pos: BlockPos{x=-998294, y=81, z=89391}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
+[22Dec2024 01:48:47.269] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-62394, 5586], pos: BlockPos{x=-998293, y=81, z=89391}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
+[22Dec2024 01:48:47.270] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJxOOOOJ+fyS8mfXtz+Xvzebntbr6WXkUWXnkeb8mefk6y8nySWqq8UX1tyWS9uXvubvvkzfUkU has also failed
+[22Dec2024 01:48:47.561] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-998327, y=85, z=89411}
+[22Dec2024 01:48:47.564] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[22Dec2024 01:48:47.565] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[22Dec2024 01:48:47.565] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxxxOOOf1vk6Xkz8mXnty9ud6q+bzzz98ntz9ubnvS1yWV89uXviiyvkfkbjervn
+[22Dec2024 01:48:47.567] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJxxxOOOf1vk6Xkz8mXnty9ud6q+bzzz98ntz9ubnvS1yWV89uXviiyvkfkbjervn has also failed
+[22Dec2024 01:48:50.115] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-998384, y=89, z=89431}
+[22Dec2024 01:48:50.116] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[22Dec2024 01:48:50.116] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[22Dec2024 01:48:50.116] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxOOJxz8+Svvz89udeb9vVWS9t+bebn1rz9t8+S1VWUXt8UUy88mbjmb1888mfyU8
+[22Dec2024 01:48:50.118] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJxOOJxz8+Svvz89udeb9vVWS9t+bebn1rz9t8+S1VWUXt8UUy88mbjmb1888mfyU8 has also failed
+[22Dec2024 01:48:50.209] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-998397, y=89, z=89425}
+[22Dec2024 01:48:50.209] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[22Dec2024 01:48:50.209] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[22Dec2024 01:48:50.209] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxxOOOOPy97b8mfyU8+bmb8+SXtzrtXWXtXS1SuXt8Syvn1tbrc8kkbr
+[22Dec2024 01:48:50.210] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJxxOOOOPy97b8mfyU8+bmb8+SXtzrtXWXtXS1SuXt8Syvn1tbrc8kkbr has also failed
+[22Dec2024 01:48:50.272] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-998410, y=84, z=89424}
+[22Dec2024 01:48:50.272] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[22Dec2024 01:48:50.272] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[22Dec2024 01:48:50.272] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxOJOON6Wvnzcj+tzz96vkmfi+SquSntX1tzdzfvt8iSyy98nbrrc
+[22Dec2024 01:48:50.274] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJxOJOON6Wvnzcj+tzz96vkmfi+SquSntX1tzdzfvt8iSyy98nbrrc has also failed
+[22Dec2024 01:49:30.647] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[22Dec2024 01:49:30.671] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[22Dec2024 01:49:30.688] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[22Dec2024 01:49:30.706] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[22Dec2024 01:49:30.712] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[22Dec2024 01:49:30.724] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[22Dec2024 01:49:30.725] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[22Dec2024 01:49:30.736] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[22Dec2024 01:49:30.737] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[22Dec2024 01:49:30.738] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[22Dec2024 01:49:30.739] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[22Dec2024 01:49:30.740] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[22Dec2024 01:49:30.741] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[22Dec2024 01:49:30.742] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[22Dec2024 01:49:30.743] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_17
+[22Dec2024 01:49:30.744] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[22Dec2024 01:49:30.745] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[22Dec2024 01:49:30.745] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[22Dec2024 01:49:30.746] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[22Dec2024 01:49:30.746] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[22Dec2024 01:49:30.747] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[22Dec2024 01:49:30.748] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[22Dec2024 01:49:30.749] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[22Dec2024 01:49:30.750] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[22Dec2024 01:49:30.751] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[22Dec2024 01:49:30.754] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[22Dec2024 01:49:30.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[22Dec2024 01:49:30.760] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[22Dec2024 01:49:30.762] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[22Dec2024 01:49:30.764] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[22Dec2024 01:49:30.766] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[22Dec2024 01:49:30.767] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[22Dec2024 01:49:30.768] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[22Dec2024 01:49:30.769] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[22Dec2024 01:49:30.771] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[22Dec2024 01:49:30.773] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[22Dec2024 01:49:30.774] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[22Dec2024 01:49:30.775] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[22Dec2024 01:49:30.777] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[22Dec2024 01:49:54.020] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-999143, y=104, z=89164}
+[22Dec2024 01:49:54.021] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[22Dec2024 01:49:54.021] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 2
+[22Dec2024 01:49:54.021] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJJOOP17+j6v
+[22Dec2024 01:50:00.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[22Dec2024 01:51:16.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith2
+[22Dec2024 01:51:16.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith
+[22Dec2024 01:51:36.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 01:51:36.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 01:53:55.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=50, z=938} BlockPos{x=-22, y=49, z=939}
+[22Dec2024 01:54:17.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=48, z=940} BlockPos{x=-26, y=47, z=940}
+[22Dec2024 01:56:36.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 01:56:36.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
