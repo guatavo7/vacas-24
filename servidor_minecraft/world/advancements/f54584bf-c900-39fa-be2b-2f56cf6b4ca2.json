@@ -7338,6 +7338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-22 04:05:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/amphithere_macuahuitl": {
     "criteria": {
       "has_item": "2024-12-22 03:07:50 +0000"
@@ -7377,6 +7383,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-12-22 02:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-22 04:05:48 +0000"
     },
     "done": true
   },
