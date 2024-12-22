@@ -895,3 +895,7 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 05:33:56.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47521, l='ServerLevel[world]', x=-490.69, y=77.00, z=946.77] died, message: 'Villager was turned into KFC by Fire Dragon'
 [22Dec2024 05:34:35.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Fire Dragon
 [22Dec2024 05:34:35.190] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-415, 70, 926) minecraft:overworld
+[22Dec2024 05:36:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was turned into KFC by Fire Dragon
+[22Dec2024 05:36:01.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-486, 74, 874) minecraft:overworld
+[22Dec2024 05:36:15.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/53404, l='ServerLevel[world]', x=-491.35, y=78.00, z=869.51] died, message: 'Fletcher was slain by Fire Dragon'
+[22Dec2024 05:37:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Dragonslayer]
