@@ -12070,3 +12070,26 @@ java.lang.IndexOutOfBoundsException: Index 13610 out of bounds for length 51
 [22Dec2024 06:58:53.166] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
 [22Dec2024 06:58:54.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaiderType
 [22Dec2024 06:58:54.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[22Dec2024 06:59:00.580] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[22Dec2024 06:59:00.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[22Dec2024 06:59:00.594] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[22Dec2024 06:59:15.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> [x:-999203, y:68, z:87486, dim:minecraft:overworld]
+[22Dec2024 06:59:35.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 06:59:35.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 07:00:25.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/129628, l='ServerLevel[world]', x=-999179.43, y=69.00, z=87479.51] died, message: 'Villager was slain by Vindicator'
+[22Dec2024 07:00:27.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/129635, l='ServerLevel[world]', x=-999180.31, y=68.56, z=87482.70] died, message: 'Villager was slain by Vindicator'
+[22Dec2024 07:01:01.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/135085, l='ServerLevel[world]', x=-999157.64, y=65.00, z=87456.29] died, message: 'Villager was slain by Vindicator'
+[22Dec2024 07:01:17.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/129910, l='ServerLevel[world]', x=-999159.70, y=65.00, z=87453.59] died, message: 'Villager was slain by Vindicator'
+[22Dec2024 07:02:16.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Voluntary Exile]
+[22Dec2024 07:04:35.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 07:04:35.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 07:05:32.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/129519, l='ServerLevel[world]', x=-999209.88, y=69.00, z=87485.28] died, message: 'Villager was slain by Vindicator'
+[22Dec2024 07:05:40.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved wrongly!
+[22Dec2024 07:05:55.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/129629, l='ServerLevel[world]', x=-999216.60, y=69.00, z=87502.44] died, message: 'Villager was slain by Vindicator'
+[22Dec2024 07:06:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Vindicator
+[22Dec2024 07:06:22.569] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-999202, 67, 87489) minecraft:overworld
+[22Dec2024 07:06:24.022] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[22Dec2024 07:06:29.072] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 07:06:29.073] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[22Dec2024 07:07:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has completed the challenge [Hero of the Village]
+[22Dec2024 07:07:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has completed the challenge [Hero of the Village]
