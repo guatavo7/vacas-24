@@ -3666,3 +3666,5 @@ java.lang.IndexOutOfBoundsException: Index 13610 out of bounds for length 51
 [22Dec2024 07:06:29.073] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [22Dec2024 07:07:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has completed the challenge [Hero of the Village]
 [22Dec2024 07:07:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has completed the challenge [Hero of the Village]
+[22Dec2024 07:18:49.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
+[22Dec2024 07:18:49.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
