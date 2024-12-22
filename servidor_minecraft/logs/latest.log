@@ -885,3 +885,16 @@
 [22Dec2024 02:04:49.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Forged in Flame]
 [22Dec2024 02:07:35.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:33749] logged in with entity id 102747 at (21729.011914320134, 155.0, -8210.877440706598)
 [22Dec2024 02:07:35.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[22Dec2024 02:11:21.778] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 02:13:14.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Chattering Teeth]
+[22Dec2024 02:13:56.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[22Dec2024 02:13:56.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
+[22Dec2024 02:15:15.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[22Dec2024 02:16:56.379] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 02:17:09.318] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 02:17:18.115] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 02:17:18.511] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[22Dec2024 02:17:23.175] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 02:17:38.981] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 02:18:10.526] [Worker-Main-75/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[22Dec2024 02:18:34.664] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
