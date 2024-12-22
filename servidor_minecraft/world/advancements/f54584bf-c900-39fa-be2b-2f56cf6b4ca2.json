@@ -1525,17 +1525,20 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-09 23:54:51 +0000",
       "minecraft:hoglin": "2024-12-11 00:11:36 +0000",
+      "minecraft:vindicator": "2024-12-22 01:22:44 +0000",
       "minecraft:magma_cube": "2024-12-11 00:13:21 +0000",
       "minecraft:spider": "2024-12-09 23:45:18 +0000",
       "minecraft:creeper": "2024-12-11 02:31:19 +0000",
       "minecraft:wither": "2024-12-12 01:49:19 +0000",
       "minecraft:slime": "2024-12-20 19:18:01 +0000",
+      "minecraft:evoker": "2024-12-22 01:24:37 +0000",
       "minecraft:phantom": "2024-12-16 02:48:57 +0000",
       "minecraft:witch": "2024-12-16 21:49:50 +0000",
       "minecraft:wither_skeleton": "2024-12-11 02:14:55 +0000",
       "minecraft:husk": "2024-12-11 02:13:07 +0000",
       "minecraft:cave_spider": "2024-12-11 02:15:09 +0000",
       "minecraft:enderman": "2024-12-19 05:50:17 +0000",
+      "minecraft:vex": "2024-12-22 01:24:42 +0000",
       "minecraft:zombie": "2024-12-09 23:52:24 +0000",
       "minecraft:zombie_villager": "2024-12-16 21:12:40 +0000"
     },
@@ -7260,6 +7263,42 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2024-12-22 01:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-22 01:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-12-22 01:22:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-22 01:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 01:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 01:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-22 01:25:16 +0000"
     },
     "done": true
   },
