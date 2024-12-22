@@ -5745,12 +5745,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2024-12-22 03:41:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-22 03:35:51 +0000"
@@ -5985,12 +5979,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-22 03:40:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-22 03:35:51 +0000"
@@ -6012,12 +6000,6 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-22 03:35:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-22 03:41:43 +0000"
     },
     "done": true
   },
@@ -6105,12 +6087,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_arrow": {
-    "criteria": {
-      "has_item": "2024-12-22 03:39:12 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-22 03:35:51 +0000"
@@ -6156,6 +6132,30 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-22 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2024-12-22 03:39:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-22 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-22 03:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-22 03:41:43 +0000"
     },
     "done": true
   },
