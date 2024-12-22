@@ -7418,6 +7418,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-22 03:29:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/amphithere_arrow": {
     "criteria": {
       "has_item": "2024-12-22 03:07:50 +0000"
