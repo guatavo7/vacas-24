@@ -7528,6 +7528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-22 06:18:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2024-12-22 05:12:45 +0000"

@@ -1027,3 +1027,4 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [22Dec2024 06:12:45.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
 [22Dec2024 06:12:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
 [22Dec2024 06:13:55.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Dragon Commander]
+[22Dec2024 06:22:37.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer moved wrongly!
