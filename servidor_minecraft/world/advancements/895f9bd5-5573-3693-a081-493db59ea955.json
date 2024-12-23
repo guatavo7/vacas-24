@@ -7879,9 +7879,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+  "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
+      "has_item": "2024-12-23 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-23 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-23 22:48:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-23 22:48:00 +0000"
     },
     "done": true
   },
@@ -7903,27 +7921,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_press": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2024-12-23 22:48:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/andesite_door": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
     },
     "done": true
   },
@@ -7939,21 +7939,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2024-12-23 22:57:23 +0000"
     },
     "done": true
   },
@@ -7963,51 +7951,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2024-12-23 23:16:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/depot": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
     },
     "done": true
   },
@@ -8029,27 +7981,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2024-12-23 22:48:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
     },
     "done": true
   },
@@ -8065,33 +7999,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2024-12-23 22:51:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2024-12-23 22:48:00 +0000"
     },
     "done": true
   },
@@ -8104,12 +8020,6 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2024-12-23 22:48:00 +0000"
     },
     "done": true
   },
@@ -8137,12 +8047,6 @@
     },
     "done": true
   },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2024-12-23 22:56:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
@@ -8167,18 +8071,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2024-12-23 22:49:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
@@ -8188,19 +8080,6 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2024-12-23 22:58:06 +0000",
-      "1": "2024-12-23 23:00:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
     },
     "done": true
   },
@@ -8216,21 +8095,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/millstone": {
-    "criteria": {
-      "has_item": "2024-12-23 22:49:12 +0000"
     },
     "done": true
   },
@@ -8282,21 +8149,154 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2024-12-23 22:57:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-23 22:48:12 +0000"
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-23 22:49:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2024-12-23 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-12-23 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-12-23 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-23 22:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-23 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-23 22:58:06 +0000",
+      "1": "2024-12-23 23:00:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-23 23:16:43 +0000"
     },
     "done": true
   },
