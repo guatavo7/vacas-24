@@ -10613,3 +10613,15 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 20:09:30.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
 [23Dec2024 20:09:51.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
 [23Dec2024 20:10:15.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[23Dec2024 20:12:13.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leodrickk[/127.237.45.76:47571] logged in with entity id 23444 at (-998547.6674519951, 43.0, 88884.28934148897)
+[23Dec2024 20:12:13.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk joined the game
+[23Dec2024 20:13:24.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/127.11.76.3:36507] logged in with entity id 25045 at (602.7776171381877, 237.0, 488.9799897827796)
+[23Dec2024 20:13:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[23Dec2024 20:14:04.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk lost connection: Disconnected
+[23Dec2024 20:14:04.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk left the game
+[23Dec2024 20:14:04.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leodrickk[/127.237.45.76:33003] logged in with entity id 26618 at (-998547.6674519951, 43.0, 88884.28934148897)
+[23Dec2024 20:14:04.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk joined the game
+[23Dec2024 20:17:17.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Hunt and Gather]
+[23Dec2024 20:18:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 fell from a high place
+[23Dec2024 20:18:05.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/simpletomb/data/MessageType
+[23Dec2024 20:18:05.240] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(599, 163, 452) minecraft:overworld
