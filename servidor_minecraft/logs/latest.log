@@ -10592,3 +10592,24 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 19:58:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has completed the challenge [Hot Tourist Destinations]
 [23Dec2024 19:58:32.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
 [23Dec2024 19:59:16.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[23Dec2024 20:04:49.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7915ms or 158 ticks behind
+[23Dec2024 20:04:52.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 0.0,-11.842011517166327,0.0
+[23Dec2024 20:05:43.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has completed the challenge [Subspace Bubble]
+[23Dec2024 20:05:59.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:43923] logged in with entity id 17890 at (21726.52507775757, 155.0, -8205.793750672186)
+[23Dec2024 20:05:59.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[23Dec2024 20:07:08.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[23Dec2024 20:07:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[23Dec2024 20:07:14.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:40529] logged in with entity id 18726 at (21726.153995035806, 155.0, -8210.039462031576)
+[23Dec2024 20:07:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[23Dec2024 20:07:17.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[23Dec2024 20:07:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to Soy_Chetos230]
+[23Dec2024 20:07:43.758] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[23Dec2024 20:08:11.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> alex carajo me rovaron la mesa
+[23Dec2024 20:08:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> que mesa?
+[23Dec2024 20:08:35.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> de crafteo
+[23Dec2024 20:08:45.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> hoara todo el server paraga
+[23Dec2024 20:08:53.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> quitare los tp
+[23Dec2024 20:09:00.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> hasta q no paresca mi mesa
+[23Dec2024 20:09:30.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
+[23Dec2024 20:09:51.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[23Dec2024 20:10:15.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]

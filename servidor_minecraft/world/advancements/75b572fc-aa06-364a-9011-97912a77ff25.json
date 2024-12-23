@@ -60,9 +60,11 @@
       "minecraft:forest": "2024-11-29 23:13:33 +0000",
       "minecraft:lush_caves": "2024-12-06 16:32:34 +0000",
       "minecraft:desert": "2024-12-11 00:49:20 +0000",
+      "minecraft:windswept_forest": "2024-12-23 20:07:24 +0000",
       "minecraft:jungle": "2024-12-01 01:51:20 +0000",
       "minecraft:ocean": "2024-12-01 19:06:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-16 01:31:36 +0000",
+      "minecraft:snowy_beach": "2024-12-23 20:04:49 +0000",
       "minecraft:windswept_savanna": "2024-12-11 23:39:25 +0000",
       "minecraft:warm_ocean": "2024-12-01 04:19:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 16:37:17 +0000",
@@ -10717,6 +10719,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2024-12-23 19:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-23 20:05:43 +0000"
     },
     "done": true
   },
