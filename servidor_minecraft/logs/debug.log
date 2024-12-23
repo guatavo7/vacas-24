@@ -18280,3 +18280,37 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 19:47:41.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=8, z=-1388} BlockPos{x=-629, y=9, z=-1383}
 [23Dec2024 19:47:57.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=8, z=-1378} BlockPos{x=-632, y=9, z=-1394}
 [23Dec2024 19:48:07.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=8, z=-1401} BlockPos{x=-650, y=9, z=-1404}
+[23Dec2024 19:50:07.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:50:07.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:53:43.887] [Server thread/DEBUG] [mixin/]: Mixing optimizations.sync_loads.SleepInBedMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.SleepInBed
+[23Dec2024 19:53:43.888] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:optimizations.sync_loads.SleepInBedMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23Dec2024 19:53:43.921] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.VillagerMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[23Dec2024 19:53:43.922] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23Dec2024 19:53:43.963] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[23Dec2024 19:53:44.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[23Dec2024 19:53:46.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[23Dec2024 19:53:46.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[23Dec2024 19:53:46.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[23Dec2024 19:53:46.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[23Dec2024 19:53:46.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[23Dec2024 19:53:46.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[23Dec2024 19:54:16.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[23Dec2024 19:54:27.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Dec2024 19:54:27.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> [name:"casa de abdias", x:599, y:237, z:474, dim:minecraft:overworld]
+[23Dec2024 19:55:07.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:55:07.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:55:38.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[23Dec2024 19:56:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Adventure Mode]
+[23Dec2024 19:56:31.281] [Server thread/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
+[23Dec2024 19:56:31.281] [Server thread/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23Dec2024 19:56:36.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[23Dec2024 19:56:36.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[23Dec2024 19:56:36.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[23Dec2024 19:56:42.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/entity/FallingTreeEntity$DestroyType
+[23Dec2024 19:56:42.536] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[23Dec2024 19:56:54.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[23Dec2024 19:58:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has completed the challenge [Hot Tourist Destinations]
+[23Dec2024 19:58:32.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[23Dec2024 19:59:16.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[23Dec2024 20:00:07.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:00:07.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

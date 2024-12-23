@@ -4145,9 +4145,10 @@
       "minecraft:crimson_forest": "2024-12-02 18:28:52 +0000",
       "minecraft:nether_wastes": "2024-12-02 18:27:31 +0000",
       "minecraft:soul_sand_valley": "2024-12-02 22:55:34 +0000",
-      "minecraft:basalt_deltas": "2024-12-02 18:21:51 +0000"
+      "minecraft:basalt_deltas": "2024-12-02 18:21:51 +0000",
+      "minecraft:warped_forest": "2024-12-23 19:58:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -7294,6 +7295,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-23 19:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 19:46:45 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-23 19:43:34 +0000"
@@ -7306,9 +7319,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 19:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 19:46:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2024-12-23 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 19:46:45 +0000"
     },
     "done": true
   },
@@ -7324,6 +7355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 19:46:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2024-12-23 19:43:14 +0000"
@@ -7333,6 +7370,18 @@
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-23 19:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 19:46:45 +0000"
     },
     "done": true
   },
