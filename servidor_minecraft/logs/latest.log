@@ -10556,3 +10556,5 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 19:19:26.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcp/mobius/waila/access/DataWriter
 [23Dec2024 19:19:26.609] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcp/mobius/waila/access/ServerAccessor
 [23Dec2024 19:19:26.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[23Dec2024 19:20:04.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[23Dec2024 19:20:15.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
