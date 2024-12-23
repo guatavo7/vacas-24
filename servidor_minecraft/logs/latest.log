@@ -10625,3 +10625,9 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 20:18:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 fell from a high place
 [23Dec2024 20:18:05.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/simpletomb/data/MessageType
 [23Dec2024 20:18:05.240] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(599, 163, 452) minecraft:overworld
+[23Dec2024 20:23:06.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by elguatavo7u7159
+[23Dec2024 20:23:06.477] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(600, 237, 464) minecraft:overworld
+[23Dec2024 20:23:49.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Another Brick in the Wall]
+[23Dec2024 20:29:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> @pendejos
+[23Dec2024 20:29:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> voy a quitar los tps
+[23Dec2024 20:29:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> avisen a todos

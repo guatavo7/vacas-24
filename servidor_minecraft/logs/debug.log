@@ -19307,3 +19307,19 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 20:18:06.771] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
 [23Dec2024 20:20:15.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 20:20:15.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:23:06.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by elguatavo7u7159
+[23Dec2024 20:23:06.477] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(600, 237, 464) minecraft:overworld
+[23Dec2024 20:23:08.395] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[23Dec2024 20:23:49.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Another Brick in the Wall]
+[23Dec2024 20:25:15.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:25:15.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:29:24.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[23Dec2024 20:29:24.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_spawner_0
+[23Dec2024 20:29:24.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_enemy_0
+[23Dec2024 20:29:24.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[23Dec2024 20:29:24.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[23Dec2024 20:29:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> @pendejos
+[23Dec2024 20:29:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> voy a quitar los tps
+[23Dec2024 20:29:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> avisen a todos
+[23Dec2024 20:30:15.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:30:15.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
