@@ -10563,3 +10563,20 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 19:38:36.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _TaeV_[/127.13.213.19:45407] logged in with entity id 2278 at (458.4286991211786, 88.0, 264.599048162641)
 [23Dec2024 19:38:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ joined the game
 [23Dec2024 19:38:36.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[23Dec2024 19:40:58.198] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[23Dec2024 19:40:58.699] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/RootConnections$ConnectionLevel
+[23Dec2024 19:40:59.843] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[23Dec2024 19:40:59.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Eye Spy]
+[23Dec2024 19:41:06.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[23Dec2024 19:41:07.786] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[23Dec2024 19:41:07.879] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[23Dec2024 19:41:08.756] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[23Dec2024 19:41:55.055] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[23Dec2024 19:41:55.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[23Dec2024 19:42:55.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[23Dec2024 19:43:21.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Alex's Caves]
+[23Dec2024 19:43:34.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Alex's Caves]
+[23Dec2024 19:44:07.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[23Dec2024 19:47:41.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=8, z=-1388} BlockPos{x=-629, y=9, z=-1383}
+[23Dec2024 19:47:57.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=8, z=-1378} BlockPos{x=-632, y=9, z=-1394}
+[23Dec2024 19:48:07.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=8, z=-1401} BlockPos{x=-650, y=9, z=-1404}

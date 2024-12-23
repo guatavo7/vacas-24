@@ -18246,3 +18246,37 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 19:38:36.540] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 300 classes
 [23Dec2024 19:38:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ joined the game
 [23Dec2024 19:38:36.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[23Dec2024 19:40:07.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:40:07.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:40:58.198] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[23Dec2024 19:40:58.699] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/RootConnections$ConnectionLevel
+[23Dec2024 19:40:58.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[23Dec2024 19:40:58.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_spawner_0
+[23Dec2024 19:40:58.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_enemy_0
+[23Dec2024 19:40:58.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
+[23Dec2024 19:40:58.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[23Dec2024 19:40:58.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[23Dec2024 19:40:59.843] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[23Dec2024 19:40:59.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Eye Spy]
+[23Dec2024 19:41:01.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[23Dec2024 19:41:02.462] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.AnimalMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.AnimalMakeLove
+[23Dec2024 19:41:02.463] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.AnimalMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23Dec2024 19:41:06.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[23Dec2024 19:41:07.536] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Dec2024 19:41:07.539] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Dec2024 19:41:07.653] [Server thread/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[23Dec2024 19:41:07.786] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[23Dec2024 19:41:07.879] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[23Dec2024 19:41:08.588] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Dec2024 19:41:08.756] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[23Dec2024 19:41:55.055] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[23Dec2024 19:41:55.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[23Dec2024 19:42:55.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[23Dec2024 19:43:21.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Alex's Caves]
+[23Dec2024 19:43:34.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Alex's Caves]
+[23Dec2024 19:44:07.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[23Dec2024 19:45:07.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:45:07.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:47:41.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=8, z=-1388} BlockPos{x=-629, y=9, z=-1383}
+[23Dec2024 19:47:57.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=8, z=-1378} BlockPos{x=-632, y=9, z=-1394}
+[23Dec2024 19:48:07.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=8, z=-1401} BlockPos{x=-650, y=9, z=-1404}

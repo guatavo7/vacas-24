@@ -44,6 +44,7 @@
       "minecraft:savanna_plateau": "2024-11-29 23:10:37 +0000",
       "minecraft:beach": "2024-12-02 19:06:47 +0000",
       "minecraft:stony_peaks": "2024-12-04 21:38:02 +0000",
+      "minecraft:sparse_jungle": "2024-12-23 19:40:59 +0000",
       "minecraft:river": "2024-11-29 23:07:26 +0000",
       "minecraft:lukewarm_ocean": "2024-12-01 12:30:52 +0000",
       "minecraft:stony_shore": "2024-12-01 12:26:59 +0000",
@@ -7290,6 +7291,48 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-20 21:24:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-23 19:43:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-23 19:40:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2024-12-23 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 19:43:14 +0000"
     },
     "done": true
   },
