@@ -2400,6 +2400,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2024-12-23 21:01:37 +0000",
       "nether_wart": "2024-12-16 22:13:13 +0000",
       "wheat": "2024-12-01 11:33:19 +0000",
       "carrot": "2024-12-02 22:21:34 +0000"
@@ -7295,6 +7296,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 21:03:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 20:53:36 +0000"
@@ -7346,6 +7353,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-23 19:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-23 21:00:22 +0000"
     },
     "done": true
   },
@@ -7685,9 +7698,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 21:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2024-12-23 20:43:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-23 21:03:18 +0000"
     },
     "done": true
   },
@@ -7760,6 +7785,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-12-23 20:57:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-23 21:03:18 +0000"
     },
     "done": true
   },

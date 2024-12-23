@@ -40,6 +40,7 @@
       "minecraft:taiga": "2024-12-20 19:16:31 +0000",
       "minecraft:deep_ocean": "2024-12-16 22:48:23 +0000",
       "minecraft:eroded_badlands": "2024-12-22 02:47:48 +0000",
+      "minecraft:frozen_river": "2024-12-23 21:01:41 +0000",
       "minecraft:cherry_grove": "2024-12-12 01:44:51 +0000",
       "minecraft:birch_forest": "2024-12-20 19:04:07 +0000",
       "minecraft:savanna_plateau": "2024-12-03 15:08:06 +0000",
@@ -6164,51 +6165,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-23 20:21:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2024-12-23 20:44:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_brick": {
-    "criteria": {
-      "forge": "2024-12-23 20:23:49 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2024-12-23 20:17:17 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
-      "has_item": "2024-12-23 20:23:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
-    "criteria": {
-      "has_item": "2024-12-23 20:23:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonbone": {
-    "criteria": {
-      "has_dragon_bone_block": "2024-12-23 20:23:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2024-12-23 20:22:45 +0000"
+      "has_item": "2024-12-23 20:21:47 +0000"
     },
     "done": true
   },
@@ -6224,9 +6189,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
+  "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
-      "has_item": "2024-12-23 20:44:46 +0000"
+      "has_item": "2024-12-23 20:22:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-23 20:22:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2024-12-23 20:23:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-12-23 20:23:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-23 20:23:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2024-12-23 20:23:49 +0000"
     },
     "done": true
   },
@@ -6236,9 +6231,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
-      "has_item": "2024-12-23 20:22:45 +0000"
+      "has_item": "2024-12-23 20:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-23 20:44:46 +0000"
     },
     "done": true
   },
