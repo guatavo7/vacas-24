@@ -19323,3 +19323,58 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 20:29:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> avisen a todos
 [23Dec2024 20:30:15.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 20:30:15.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:31:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> tiene hasta hoy para tener tp apartir de mañana
+[23Dec2024 20:34:28.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel5
+[23Dec2024 20:34:29.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel14
+[23Dec2024 20:34:29.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel6
+[23Dec2024 20:34:29.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel15
+[23Dec2024 20:34:29.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel4
+[23Dec2024 20:34:29.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel13
+[23Dec2024 20:34:29.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel2
+[23Dec2024 20:34:29.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel11
+[23Dec2024 20:34:29.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel8
+[23Dec2024 20:34:29.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel17
+[23Dec2024 20:34:29.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel1
+[23Dec2024 20:34:29.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel10
+[23Dec2024 20:34:29.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel3
+[23Dec2024 20:34:29.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel12
+[23Dec2024 20:34:29.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel9
+[23Dec2024 20:34:29.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel18
+[23Dec2024 20:34:29.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel7
+[23Dec2024 20:34:29.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel16
+[23Dec2024 20:34:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[23Dec2024 20:34:46.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to abdias_17]
+[23Dec2024 20:35:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[23Dec2024 20:35:11.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159 using [Espada congelada de hueso de dragon]
+[23Dec2024 20:35:11.796] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(409, 96, 373) minecraft:overworld
+[23Dec2024 20:35:15.387] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[23Dec2024 20:35:15.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:35:15.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:35:24.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:35:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159 using [Espada congelada de hueso de dragon]
+[23Dec2024 20:35:26.646] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(409, 96, 374) minecraft:overworld
+[23Dec2024 20:35:27.959] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[23Dec2024 20:35:34.890] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:35:35.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159 using [Espada congelada de hueso de dragon]
+[23Dec2024 20:35:35.296] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(409, 96, 373) minecraft:overworld
+[23Dec2024 20:35:38.044] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[23Dec2024 20:35:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> PERRA DE MRD
+[23Dec2024 20:35:47.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> SAL DE MI CASA
+[23Dec2024 20:35:47.991] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:35:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> FUERA
+[23Dec2024 20:36:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> LARGO
+[23Dec2024 20:36:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[23Dec2024 20:36:32.543] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(415, 92, 419) minecraft:overworld
+[23Dec2024 20:36:34.161] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[23Dec2024 20:36:35.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> SUERA
+[23Dec2024 20:36:54.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:37:43.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Made elguatavo7u7159 no longer a server operator]
+[23Dec2024 20:37:55.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 lost connection: Disconnected
+[23Dec2024 20:37:55.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
+[23Dec2024 20:38:37.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ghost
+[23Dec2024 20:38:37.812] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(497, 92, 255) minecraft:overworld
+[23Dec2024 20:38:39.392] [Server thread/DEBUG] [twilightforest/]: Player abdias_17 (a04ab861-3e41-3bd0-9926-7843deb5262d) respawned and received items held in storage
+[23Dec2024 20:39:00.069] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:40:15.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:40:15.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:42:05.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1

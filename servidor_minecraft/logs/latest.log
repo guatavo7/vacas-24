@@ -10631,3 +10631,30 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [23Dec2024 20:29:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> @pendejos
 [23Dec2024 20:29:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> voy a quitar los tps
 [23Dec2024 20:29:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> avisen a todos
+[23Dec2024 20:31:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> tiene hasta hoy para tener tp apartir de mañana
+[23Dec2024 20:34:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[23Dec2024 20:34:46.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to abdias_17]
+[23Dec2024 20:35:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[23Dec2024 20:35:11.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159 using [Espada congelada de hueso de dragon]
+[23Dec2024 20:35:11.796] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(409, 96, 373) minecraft:overworld
+[23Dec2024 20:35:24.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:35:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159 using [Espada congelada de hueso de dragon]
+[23Dec2024 20:35:26.646] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(409, 96, 374) minecraft:overworld
+[23Dec2024 20:35:34.890] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:35:35.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159 using [Espada congelada de hueso de dragon]
+[23Dec2024 20:35:35.296] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(409, 96, 373) minecraft:overworld
+[23Dec2024 20:35:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> PERRA DE MRD
+[23Dec2024 20:35:47.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> SAL DE MI CASA
+[23Dec2024 20:35:47.991] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:35:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> FUERA
+[23Dec2024 20:36:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> LARGO
+[23Dec2024 20:36:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by elguatavo7u7159
+[23Dec2024 20:36:32.543] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(415, 92, 419) minecraft:overworld
+[23Dec2024 20:36:35.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> SUERA
+[23Dec2024 20:36:54.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[23Dec2024 20:37:43.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Made elguatavo7u7159 no longer a server operator]
+[23Dec2024 20:37:55.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 lost connection: Disconnected
+[23Dec2024 20:37:55.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
+[23Dec2024 20:38:37.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Ghost
+[23Dec2024 20:38:37.812] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(497, 92, 255) minecraft:overworld
+[23Dec2024 20:39:00.069] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
