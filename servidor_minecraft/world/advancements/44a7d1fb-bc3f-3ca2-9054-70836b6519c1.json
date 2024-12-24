@@ -6376,6 +6376,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/tools/phasometer": {
+    "criteria": {
+      "has_spyglass": "2024-12-24 00:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-12-24 00:17:53 +0000"
@@ -6388,9 +6394,21 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/tools/phasometer": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_spyglass": "2024-12-24 00:05:05 +0000"
+      "has_kelp": "2024-12-24 00:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-24 00:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-24 00:42:17 +0000"
     },
     "done": true
   },
