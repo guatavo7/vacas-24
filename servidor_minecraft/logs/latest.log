@@ -9272,3 +9272,33 @@ io.netty.handler.codec.CorruptedFrameException: length wider than 21-bit
 [24Dec2024 02:25:24.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> QUIEN ESTA CARGANDO TANTOS CHUNKS PE
 [24Dec2024 02:25:34.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk moved too quickly! 9.789868873525847,-0.5292232112077642,2.4430017636204866
 [24Dec2024 02:25:36.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk moved too quickly! 10.109683352853608,0.8441830493509741,0.14949554593295034
+[24Dec2024 02:25:39.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 59783ms or 1195 ticks behind
+[24Dec2024 02:25:45.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TaeV_ moved too quickly! -8.928812097758055,0.0,-4.5924979321921455
+[24Dec2024 02:25:45.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> bro q es este lag
+[24Dec2024 02:25:48.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk moved too quickly! -9.460042206901562,-0.1804624345250403,-3.594274660183146
+[24Dec2024 02:25:55.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TaeV_ moved too quickly! 7.613513380289078,0.0,6.515174626236785
+[24Dec2024 02:25:55.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 9.572071865200996,0.12129684053920187,-3.419495560032715
+[24Dec2024 02:25:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> Vayanse a la mrd
+[24Dec2024 02:25:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> lo reseteo un acho para q vajje lag
+[24Dec2024 02:26:12.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk lost connection: Disconnected
+[24Dec2024 02:26:13.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk left the game
+[24Dec2024 02:26:13.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 02:26:13.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 02:26:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 02:26:13.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
+[24Dec2024 02:26:13.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[24Dec2024 02:26:13.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Server closed
+[24Dec2024 02:26:13.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[24Dec2024 02:26:13.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 02:26:32.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 02:26:36.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 02:26:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 02:26:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[24Dec2024 02:26:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24Dec2024 02:26:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 02:26:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 02:26:36.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 02:26:36.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[24Dec2024 02:26:36.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24Dec2024 02:26:36.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 02:26:37.446] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
