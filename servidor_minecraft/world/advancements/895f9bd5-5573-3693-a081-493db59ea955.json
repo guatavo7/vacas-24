@@ -8565,6 +8565,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-12-24 03:11:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-12-24 03:11:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2024-12-24 03:15:49 +0000"
@@ -8577,21 +8589,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2024-12-24 03:11:52 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2024-12-24 03:15:49 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "beef_patty": "2024-12-24 03:11:52 +0000"
+      "bestiary": "2024-12-24 15:51:35 +0000"
     },
     "done": true
   },

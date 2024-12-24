@@ -10939,27 +10939,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
-    "criteria": {
-      "has_item": "2024-12-24 03:19:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "axe": "2024-12-24 02:49:34 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
     "criteria": {
       "has_item": "2024-12-24 02:46:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
-    "criteria": {
-      "has_dragonscale_bronze": "2024-12-24 03:18:24 +0000"
     },
     "done": true
   },
@@ -10975,12 +10957,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-24 03:42:31 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
     "criteria": {
       "has_item": "2024-12-24 02:46:59 +0000"
@@ -10993,30 +10969,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
-    "criteria": {
-      "has_item": "2024-12-24 03:19:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2024-12-24 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2024-12-24 03:18:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2024-12-24 03:18:01 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
     "criteria": {
       "has_item": "2024-12-24 02:46:59 +0000"
@@ -11026,12 +10978,6 @@
   "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
     "criteria": {
       "has_item": "2024-12-24 02:46:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2024-12-24 03:42:31 +0000"
     },
     "done": true
   },
@@ -11053,6 +10999,30 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2024-12-24 02:49:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-24 03:18:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-24 03:18:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-24 03:18:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-24 03:18:01 +0000"
@@ -11062,6 +11032,36 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-24 03:18:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2024-12-24 03:18:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-24 03:19:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2024-12-24 03:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-24 03:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-12-24 03:42:31 +0000"
     },
     "done": true
   },
