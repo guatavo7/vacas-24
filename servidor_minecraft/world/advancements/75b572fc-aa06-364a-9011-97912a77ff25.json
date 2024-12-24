@@ -10764,6 +10764,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
+    "criteria": {
+      "has_dragonscale_amythest": "2024-12-24 02:04:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2024-12-24 00:16:06 +0000"
@@ -10773,6 +10779,48 @@
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-24 00:18:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_input": {
+    "criteria": {
+      "has_item": "2024-12-24 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_dragonscale_green": "2024-12-24 02:03:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-24 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
+    "criteria": {
+      "has_dragonscale_gray": "2024-12-24 02:02:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-12-24 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
+    "criteria": {
+      "has_dragonscale_electric": "2024-12-24 02:06:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-24 02:06:06 +0000"
     },
     "done": true
   },
@@ -10788,9 +10836,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2024-12-24 02:03:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2024-12-24 00:16:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2024-12-24 02:06:06 +0000"
     },
     "done": true
   },
@@ -10851,6 +10911,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2024-12-24 00:16:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
+    "criteria": {
+      "has_dragonscale_copper": "2024-12-24 02:03:12 +0000"
     },
     "done": true
   },
