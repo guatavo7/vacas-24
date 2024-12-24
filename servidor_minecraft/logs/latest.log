@@ -9,3 +9,13 @@
 [24Dec2024 00:08:45.429] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
 [24Dec2024 00:08:48.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
 [24Dec2024 00:08:49.461] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Dec2024 00:10:19.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[24Dec2024 00:10:19.893] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[24Dec2024 00:13:53.470] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Dec2024 00:13:53.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> [x:29999754, y:161, z:-883, dim:minecraft:overworld]
+[24Dec2024 00:15:24.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29999758, y=148, z=-874} BlockPos{x=29999746, y=147, z=-873}
+[24Dec2024 00:16:18.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[24Dec2024 00:17:44.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Another Brick in the Wall]
+[24Dec2024 00:17:55.196] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@409bf2d0[id=<null>,name=Crisogamaer,properties={},legacy=false] (/127.104.33.64:36899) lost connection: Disconnected
+[24Dec2024 00:18:39.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38d9e491[id=<null>,name=Crisogamaer,properties={},legacy=false] (/127.104.33.64:40577) lost connection: Disconnected
+[24Dec2024 00:19:18.746] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c2abd9d[id=<null>,name=Crisogamaer,properties={},legacy=false] (/127.104.33.64:40139) lost connection: Disconnected
