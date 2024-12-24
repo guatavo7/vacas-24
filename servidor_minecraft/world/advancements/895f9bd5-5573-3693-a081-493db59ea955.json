@@ -8622,6 +8622,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2024-12-24 16:29:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2024-12-24 16:22:57 +0000"
@@ -8703,6 +8709,12 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2024-12-24 16:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-24 16:29:39 +0000"
     },
     "done": true
   },

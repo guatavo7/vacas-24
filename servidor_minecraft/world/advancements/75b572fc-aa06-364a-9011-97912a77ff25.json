@@ -11097,6 +11097,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_tremorzilla": {
+    "criteria": {
+      "killed": "2024-12-24 16:29:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2024-12-24 16:29:29 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tremorzilla_egg": {
     "criteria": {
       "quarry": "2024-12-24 16:28:37 +0000"
