@@ -42,6 +42,7 @@
       "minecraft:taiga": "2024-12-16 23:04:57 +0000",
       "minecraft:deep_ocean": "2024-12-19 02:41:10 +0000",
       "minecraft:eroded_badlands": "2024-12-21 06:55:31 +0000",
+      "minecraft:frozen_river": "2024-12-24 00:33:48 +0000",
       "minecraft:sunflower_plains": "2024-12-19 05:22:45 +0000",
       "minecraft:birch_forest": "2024-12-16 23:48:23 +0000",
       "minecraft:bamboo_jungle": "2024-12-19 01:51:21 +0000",
@@ -60,12 +61,15 @@
       "minecraft:snowy_taiga": "2024-12-20 19:16:20 +0000",
       "minecraft:grove": "2024-12-17 00:01:51 +0000",
       "minecraft:jagged_peaks": "2024-12-20 19:58:17 +0000",
+      "minecraft:cold_ocean": "2024-12-24 00:33:23 +0000",
       "minecraft:forest": "2024-12-16 21:28:41 +0000",
       "minecraft:lush_caves": "2024-12-19 01:53:47 +0000",
+      "minecraft:frozen_ocean": "2024-12-24 00:33:17 +0000",
       "minecraft:desert": "2024-12-16 21:36:33 +0000",
       "minecraft:jungle": "2024-12-19 01:52:44 +0000",
       "minecraft:ocean": "2024-12-19 02:29:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 00:26:21 +0000",
+      "minecraft:snowy_beach": "2024-12-24 00:34:01 +0000",
       "minecraft:warm_ocean": "2024-12-16 21:51:18 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-19 02:38:50 +0000",
       "minecraft:flower_forest": "2024-12-20 18:56:20 +0000",
@@ -1079,6 +1083,7 @@
       "minecraft:husk": "2024-12-16 21:41:08 +0000",
       "minecraft:ender_dragon": "2024-12-20 20:04:49 +0000",
       "minecraft:enderman": "2024-12-16 23:24:00 +0000",
+      "minecraft:stray": "2024-12-24 00:34:20 +0000",
       "minecraft:vex": "2024-12-20 21:10:57 +0000",
       "minecraft:zombie": "2024-12-16 21:46:06 +0000",
       "minecraft:drowned": "2024-12-19 02:36:44 +0000",
@@ -6298,6 +6303,30 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-24 00:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-24 00:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-24 00:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-24 00:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-24 00:29:31 +0000"
     },
     "done": true
   },
