@@ -7640,5 +7640,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc": {
+    "criteria": {
+      "has_item": "2024-12-24 01:27:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

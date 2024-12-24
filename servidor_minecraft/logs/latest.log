@@ -5283,3 +5283,5 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [24Dec2024 01:02:16.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
 [24Dec2024 01:07:57.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to _TaeV_]
 [24Dec2024 01:15:33.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29999537, y=91, z=-553} BlockPos{x=29999537, y=90, z=-553}
+[24Dec2024 01:26:39.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/127.11.76.3:48147] logged in with entity id 112292 at (599.5, 237.0, 485.5)
+[24Dec2024 01:26:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
