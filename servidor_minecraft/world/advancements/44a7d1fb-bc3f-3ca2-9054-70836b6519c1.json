@@ -62,6 +62,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-20 21:51:04 +0000",
       "minecraft:snowy_beach": "2024-12-20 19:13:52 +0000",
       "minecraft:warm_ocean": "2024-12-11 00:30:59 +0000",
+      "minecraft:flower_forest": "2024-12-24 01:36:41 +0000",
       "minecraft:frozen_peaks": "2024-12-22 01:54:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-20 19:39:10 +0000",
       "minecraft:deep_dark": "2024-12-12 01:43:44 +0000",
@@ -6394,9 +6395,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-24 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-24 01:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-24 00:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-24 01:34:23 +0000"
     },
     "done": true
   },
@@ -6409,6 +6428,36 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-24 00:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-24 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-24 01:44:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-24 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-12-24 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_block_to_silver_ingot": {
+    "criteria": {
+      "has_silver_block": "2024-12-24 01:45:56 +0000"
     },
     "done": true
   },
