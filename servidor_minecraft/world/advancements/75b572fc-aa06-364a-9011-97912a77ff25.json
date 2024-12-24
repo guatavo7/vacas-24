@@ -10800,6 +10800,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/zombie_scepter": {
+    "criteria": {
+      "has_item": "2024-12-24 01:52:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2024-12-24 00:03:58 +0000"
