@@ -7984,5 +7984,17 @@
     },
     "done": true
   },
+  "witherstormmod:main/summon_wither_storm": {
+    "criteria": {
+      "summoned_wither_storm": "2024-12-24 16:15:53 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/root": {
+    "criteria": {
+      "summoned_wither_storm": "2024-12-24 16:15:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

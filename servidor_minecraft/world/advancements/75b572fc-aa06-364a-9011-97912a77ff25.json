@@ -777,6 +777,7 @@
       "cooked_beef": "2024-11-29 23:46:56 +0000",
       "chorus_fruit": "2024-12-20 20:49:09 +0000",
       "porkchop": "2024-11-29 23:24:19 +0000",
+      "spider_eye": "2024-12-24 16:11:55 +0000",
       "potato": "2024-12-24 15:53:29 +0000",
       "cooked_cod": "2024-12-01 20:06:31 +0000",
       "pumpkin_pie": "2024-12-01 02:54:55 +0000",
@@ -11063,6 +11064,48 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2024-12-24 03:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-24 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/summon_wither_storm": {
+    "criteria": {
+      "summoned_wither_storm": "2024-12-24 16:15:53 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/infected_flesh_block": {
+    "criteria": {
+      "has_tainted_flesh_block": "2024-12-24 16:18:03 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/root": {
+    "criteria": {
+      "summoned_wither_storm": "2024-12-24 16:15:53 +0000"
     },
     "done": true
   },
