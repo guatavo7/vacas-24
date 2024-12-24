@@ -8481,5 +8481,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-24 02:17:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
