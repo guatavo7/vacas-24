@@ -989,3 +989,154 @@
 [24Dec2024 16:18:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
 [24Dec2024 16:18:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
 [24Dec2024 16:18:33.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> alex ven
+[24Dec2024 16:19:17.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was blown up by Wither Storm
+[24Dec2024 16:19:19.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set phase 5.0 for Wither Storm]
+[24Dec2024 16:19:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> XD
+[24Dec2024 16:19:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has reached the goal [Brushing Shoulders With Death]
+[24Dec2024 16:19:59.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[24Dec2024 16:20:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ was blown up by Wither Storm
+[24Dec2024 16:20:03.580] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2341, 112, -2512) minecraft:overworld
+[24Dec2024 16:20:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by abdias_17
+[24Dec2024 16:20:06.144] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2251, 73, -2449) minecraft:overworld
+[24Dec2024 16:20:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> no hay mis cosas
+[24Dec2024 16:20:22.797] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:20:22.797] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:20:23.431] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:20:32.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[24Dec2024 16:20:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[24Dec2024 16:20:39.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TaeV_ moved too quickly! 1.4253358961132108,10.745505147914606,-2.2646110095388394
+[24Dec2024 16:20:48.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:46601] logged in with entity id 48491 at (-2280.998555150499, 100.55032129336216, -2420.8356040654994)
+[24Dec2024 16:20:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[24Dec2024 16:20:51.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[24Dec2024 16:20:51.401] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2282, 70, -2421) minecraft:overworld
+[24Dec2024 16:20:59.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:20:59.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Dec2024 16:20:59.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:20:59.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:20:59.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:20:59.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:20:59.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:20:59.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:20:59.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:21:01.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> maten lo mnrd
+[24Dec2024 16:21:21.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> q fue
+[24Dec2024 16:21:24.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> mis cosas
+[24Dec2024 16:21:36.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2240, y=65, z=-2463} BlockPos{x=-2241, y=66, z=-2463}
+[24Dec2024 16:21:36.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2240, y=65, z=-2463} BlockPos{x=-2241, y=66, z=-2463}
+[24Dec2024 16:21:38.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:21:38.836] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2241, 66, -2464) minecraft:overworld
+[24Dec2024 16:21:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by elguatavo7u7159
+[24Dec2024 16:21:40.414] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2242, 66, -2464) minecraft:overworld
+[24Dec2024 16:21:43.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Soy_Chetos230
+[24Dec2024 16:21:43.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2241, 66, -2462) minecraft:overworld
+[24Dec2024 16:21:45.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Soy_Chetos230
+[24Dec2024 16:21:46.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Soy_Chetos230
+[24Dec2024 16:21:53.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[24Dec2024 16:21:53.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Soy_Chetos230
+[24Dec2024 16:21:54.095] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:21:54.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:21:54.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:21:59.949] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:21:59.950] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Dec2024 16:22:01.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10132, l='ServerLevel[world]', x=-2485.99, y=66.00, z=-2586.97] died, message: 'Villager burned to death'
+[24Dec2024 16:22:07.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/47149, l='ServerLevel[world]', x=-2542.46, y=62.51, z=-2581.56] died, message: 'Nitwit tried to swim in lava'
+[24Dec2024 16:22:07.965] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47150, l='ServerLevel[world]', x=-2543.40, y=62.45, z=-2579.63] died, message: 'Villager tried to swim in lava'
+[24Dec2024 16:22:09.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Soy_Chetos230
+[24Dec2024 16:22:09.085] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2243, 70, -2460) minecraft:overworld
+[24Dec2024 16:22:10.446] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:22:12.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4221ms or 84 ticks behind
+[24Dec2024 16:22:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Soy_Chetos230
+[24Dec2024 16:22:14.777] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2243, 64, -2464) minecraft:overworld
+[24Dec2024 16:22:20.117] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:22:20.118] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:22:20.119] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:22:25.660] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:22:36.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> alto
+[24Dec2024 16:22:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Soy_Chetos230
+[24Dec2024 16:22:38.149] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2241, 66, -2462) minecraft:overworld
+[24Dec2024 16:22:44.851] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:22:44.854] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:22:44.855] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:22:48.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:22:48.483] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2241, 66, -2463) minecraft:overworld
+[24Dec2024 16:22:48.544] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[24Dec2024 16:22:48.551] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[24Dec2024 16:22:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:22:57.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [The Desert Swimmers]
+[24Dec2024 16:23:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:23:11.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3553ms or 71 ticks behind
+[24Dec2024 16:23:11.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TaeV_ moved too quickly! -9.116989648908202,-0.5040129017765196,4.298678983281661
+[24Dec2024 16:23:12.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:23:12.712] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2241, 66, -2464) minecraft:overworld
+[24Dec2024 16:23:18.127] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Dec2024 16:23:18.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:23:33.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6567ms or 131 ticks behind
+[24Dec2024 16:23:36.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:23:36.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Adventure Mode]
+[24Dec2024 16:23:36.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[24Dec2024 16:23:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [No Step on Snake]
+[24Dec2024 16:23:43.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> bro mi armadura se fue
+[24Dec2024 16:23:45.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to _TaeV_]
+[24Dec2024 16:23:46.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[24Dec2024 16:23:46.932] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[24Dec2024 16:23:46.936] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[24Dec2024 16:23:59.319] [Worker-Main-50/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[24Dec2024 16:24:32.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Paul Atreides]
+[24Dec2024 16:24:34.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported abdias_17 to elguatavo7u7159]
+[24Dec2024 16:24:53.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[24Dec2024 16:24:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[24Dec2024 16:24:58.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:47931] logged in with entity id 72317 at (-2213.8311258131453, 89.69774768439005, -2479.3685361832067)
+[24Dec2024 16:24:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[24Dec2024 16:25:11.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[24Dec2024 16:25:11.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[24Dec2024 16:25:16.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:45325] logged in with entity id 74970 at (-2206.43448024972, 94.21819138335545, -2487.1860851347815)
+[24Dec2024 16:25:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[24Dec2024 16:25:26.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[24Dec2024 16:25:26.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[24Dec2024 16:25:32.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:57813] logged in with entity id 76834 at (-2216.126863628978, 98.41297478982399, -2485.03211852192)
+[24Dec2024 16:25:32.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[24Dec2024 16:25:35.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[24Dec2024 16:25:41.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[24Dec2024 16:25:41.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[24Dec2024 16:25:43.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[24Dec2024 16:25:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[24Dec2024 16:25:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[24Dec2024 16:25:46.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:46045] logged in with entity id 78468 at (-2221.851061357321, 98.91827534538594, -2479.6131134199754)
+[24Dec2024 16:25:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[24Dec2024 16:25:48.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[24Dec2024 16:25:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[24Dec2024 16:25:48.895] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2223, 68, -2481) minecraft:overworld
+[24Dec2024 16:25:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[24Dec2024 16:25:53.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[24Dec2024 16:26:04.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2242, y=67, z=-2462} BlockPos{x=-2243, y=67, z=-2461}
+[24Dec2024 16:26:07.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 was slain by Leodrickk using [Libro encantado]
+[24Dec2024 16:26:07.539] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2242, 66, -2464) minecraft:overworld
+[24Dec2024 16:26:32.343] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3329, y=-51, z=-2538} but found not block entity block Block{minecraft:air} at location
+[24Dec2024 16:26:32.343] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3329, y=-51, z=-2538}
+[24Dec2024 16:26:32.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to Leodrickk]
+[24Dec2024 16:26:34.949] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:26:34.950] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Dec2024 16:26:34.950] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:34.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:34.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:34.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:34.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:34.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:34.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:36.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[24Dec2024 16:26:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[24Dec2024 16:26:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[24Dec2024 16:26:50.681] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:26:50.682] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[24Dec2024 16:26:50.682] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Dec2024 16:26:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[24Dec2024 16:27:08.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> vaya puta mierda de evento bro
+[24Dec2024 16:27:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> la cagada va en la taza
+[24Dec2024 16:27:15.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leodrickk lost connection: Disconnected
+[24Dec2024 16:27:15.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk left the game
+[24Dec2024 16:27:38.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved wrongly!
+[24Dec2024 16:28:00.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported 3 entities to elguatavo7u7159]
+[24Dec2024 16:28:07.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set _TaeV_'s game mode to Creative Mode]
+[24Dec2024 16:28:07.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set abdias_17's game mode to Creative Mode]
+[24Dec2024 16:28:07.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[24Dec2024 16:28:37.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Century Egg]

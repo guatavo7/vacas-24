@@ -62,6 +62,7 @@
       "minecraft:cold_ocean": "2024-12-03 02:36:10 +0000",
       "minecraft:forest": "2024-12-03 00:49:45 +0000",
       "minecraft:lush_caves": "2024-12-06 16:50:23 +0000",
+      "minecraft:desert": "2024-12-24 16:18:57 +0000",
       "minecraft:ocean": "2024-12-03 02:24:46 +0000",
       "minecraft:jungle": "2024-12-03 16:45:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 22:36:24 +0000",
@@ -7652,9 +7653,27 @@
     },
     "done": true
   },
+  "witherstormmod:main/escape_wither_storm": {
+    "criteria": {
+      "escape_wither_storm": "2024-12-24 16:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-24 16:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
     },
     "done": true
   },
@@ -7676,9 +7695,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_chiseled_sandstone": "2024-12-24 16:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
     },
     "done": true
   },
@@ -7703,6 +7758,12 @@
   "witherstormmod:main/root": {
     "criteria": {
       "summoned_wither_storm": "2024-12-24 16:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-24 16:22:10 +0000"
     },
     "done": true
   },

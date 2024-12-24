@@ -44,6 +44,9 @@
       "minecraft:eroded_badlands": "2024-12-23 23:59:02 +0000",
       "minecraft:cherry_grove": "2024-12-01 11:49:15 +0000",
       "minecraft:sunflower_plains": "2024-12-01 11:48:54 +0000",
+      "minecraft:bamboo_jungle": "2024-12-24 16:26:52 +0000",
+      "minecraft:wooded_badlands": "2024-12-24 16:26:16 +0000",
+      "minecraft:badlands": "2024-12-24 16:25:26 +0000",
       "minecraft:savanna_plateau": "2024-11-29 23:10:37 +0000",
       "minecraft:beach": "2024-12-02 19:06:47 +0000",
       "minecraft:stony_peaks": "2024-12-04 21:38:02 +0000",
@@ -8619,6 +8622,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-24 16:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-24 16:13:59 +0000"
@@ -8643,6 +8652,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-24 16:23:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2024-12-24 15:54:52 +0000"
@@ -8658,6 +8673,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-24 16:13:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2024-12-24 16:24:32 +0000"
     },
     "done": true
   },

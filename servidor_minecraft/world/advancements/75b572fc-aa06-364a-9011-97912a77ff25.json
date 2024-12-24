@@ -11097,6 +11097,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tremorzilla_egg": {
+    "criteria": {
+      "quarry": "2024-12-24 16:28:37 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:recipes/building_blocks/infected_flesh_block": {
     "criteria": {
       "has_tainted_flesh_block": "2024-12-24 16:18:03 +0000"

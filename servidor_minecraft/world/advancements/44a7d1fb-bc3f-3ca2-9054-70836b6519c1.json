@@ -6468,6 +6468,48 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-24 16:25:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-24 16:25:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-24 16:25:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-24 16:25:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-24 16:25:12 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_flesh_block": {
+    "criteria": {
+      "has_withered_flesh": "2024-12-24 16:21:12 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/infected_flesh_block": {
+    "criteria": {
+      "has_tainted_flesh_block": "2024-12-24 16:20:48 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:main/root": {
     "criteria": {
       "summoned_wither_storm": "2024-12-24 16:15:53 +0000"
